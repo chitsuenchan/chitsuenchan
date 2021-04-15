@@ -1,7 +1,7 @@
 <h1 align="center">Hi Folks 👋, I'm Chi Tsuen</h1>
 <h3 align="center">I'm a QA engineer/technical BA. I'm from the United Kingdom but now I live in Hong Kong working at HSBC. Feel free to reach out to me! </h3>
 
-- 🔭 I’m currently working on **Machine Learning and Bitcoin Prediction**
+- 🔭 I’m currently working on **Setting up a Pupperteer testing frameowkr and Machine Learning to predict the Bitcoin price**
 
 - 🌱 I’m currently learning **Pupperteer, testing frameworks and machine learning**
 
