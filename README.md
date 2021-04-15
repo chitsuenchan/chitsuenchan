@@ -1,5 +1,5 @@
 <h1 align="center">Hi Folks 👋, I'm Chi Tsuen</h1>
-<h3 align="center">I'm a QA engineer/technical BA. I'm from the United Kingdom but now live in Hong Kong working at HSBC. You can find me on Linkedin or email.</h3>
+<h3 align="center">I'm a QA engineer/technical BA. I'm from the United Kingdom but now I live in Hong Kong working at HSBC. Feel free to reach out to me! </h3>
 
 - 🔭 I’m currently working on **Machine Learning and Bitcoin Prediction**
 
