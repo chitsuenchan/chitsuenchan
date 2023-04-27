@@ -1,13 +1,13 @@
 <h1 align="center">Hi Folks 👋, I'm Chi Tsuen</h1>
-<h3 align="center">I'm a QA engineer/technical BA. I'm from the United Kingdom but now I live in Hong Kong working at HSBC. Feel free to reach out to me! </h3>
+<h3 align="center">I'm a QA engineer/technical BA from the United Kingdom but now I live in Hong Kong working in various finance project teams </h3>
 
-- 🔭 I’m currently working on **Setting up a Pupperteer testing frameowkr and Machine Learning to predict the Bitcoin price**
+- 🔭 I’m currently working on **Setting up my first android application**
 
-- 🌱 I’m currently learning **Pupperteer, testing frameworks and machine learning**
+- 🌱 I’m currently learning **Android Kit, REACT and Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://github.com/chitsuenchan?tab=repositories](https://github.com/chitsuenchan?tab=repositories)
 
-- 💬 Ask me about **Selenium, econometrics, building automated test cases**
+- 💬 Ask me about **Web Browser Automation, API Testing, handling UAT, econometrics, or finance**
 
 - 📫 How to reach me **chitsuenchan@gmail.com**
 
