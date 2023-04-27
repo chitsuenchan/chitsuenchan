@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Setting up my first android application**
 
-- 🌱 I’m currently learning **Android Kit, REACT and Kotlin to develop my first app**
+- 🌱 I’m currently learning **Android Kit, REACT and Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://github.com/chitsuenchan?tab=repositories](https://github.com/chitsuenchan?tab=repositories)
 
