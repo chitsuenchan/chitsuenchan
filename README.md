@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I'm an advanced scuba diver and explored sunken WWII battleships!**
 
-- 👨‍💻 Here are the links to some of my popular projects:
+- 👨‍💻 Here are the links to some of my projects:
   - [REACT Website](https://github.com/chitsuenchan/full-stack-fact-app)
   - [Mobile Testing](https://github.com/chitsuenchan/Mobile-and-API-QA)
   - [iOS Application](https://github.com/chitsuenchan/swiftUI-landmarks-project)
