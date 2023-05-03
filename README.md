@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Android Kit, REACT and Kotlin**
 
-- 👨‍💻 All of my projects are available at [https://github.com/chitsuenchan?tab=repositories](https://github.com/chitsuenchan?tab=repositories)
-
 - 💬 Ask me about **Web Browser Automation, API Testing, handling UAT, econometrics, or finance**
 
 - 📫 How to reach me **chitsuenchan@gmail.com**
@@ -15,6 +13,11 @@
 
 - ⚡ Fun fact **I'm an advanced scuba diver and explored sunken WWII battleships!**
 
+- 👨‍💻 Here are the links to some of my popular projects:
+  - [REACT Website](https://github.com/chitsuenchan/full-stack-fact-app)
+  - [Mobile Testing](https://github.com/chitsuenchan/Mobile-and-API-QA)
+  - [iOS Application](https://github.com/chitsuenchan/swiftUI-landmarks-project)
+  - [Machine Learning]()
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
