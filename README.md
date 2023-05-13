@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Android Kit, REACT and Kotlin**
 
-- 💬 Ask me about **Web Browser Automation, API Testing, handling UAT, econometrics, or finance**
+- 💬 Ask me about **Web Browser Automation, API Testing, handling UAT, or business analysis**
 
 - 📫 How to reach me **chitsuenchan@gmail.com**
 
