@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/chitsuenchan/](https://www.linkedin.com/in/chitsuenchan/)
 
-- ⚡ Fun fact **I'm an advanced scuba diver and explored sunken WWII battleships!**
+- ⚡ Fun fact **I'm an advanced scuba diver and explored sunken WWII battleships**
 
 - 👨‍💻 Here are the links to some of my projects:
   - [REACT Website](https://github.com/chitsuenchan/full-stack-fact-app)
