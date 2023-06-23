@@ -69,6 +69,9 @@
   <a href="https://github.com/puppeteer/puppeteer" target="_blank">
     <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/puppeteer.png" alt="puppeteer" width="30" height="40" />
   </a>
+  
+  </p>
+  <p align="left">
 
   <a href="https://www.selenium.dev" target="_blank">
     <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/selenium.png" alt="selenium" width="40" height="40" />
@@ -78,9 +81,7 @@
     <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/jmeter.png" alt="java" width="120" height="40" />
   </a>
 
-  
-  </p>
-  <p align="left">
+
   
   <a href="https://www.jenkins.io/" target="_blank">
     <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/jenkins.png" alt="java" width="50" height="40" />
