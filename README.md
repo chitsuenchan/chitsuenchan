@@ -70,6 +70,10 @@
     <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/puppeteer.png" alt="puppeteer" width="30" height="40" />
   </a>
 
+  
+  </p>
+  <p align="left">
+
   <a href="https://www.selenium.dev" target="_blank">
     <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/selenium.png" alt="selenium" width="40" height="40" />
   </a>
@@ -89,9 +93,6 @@
   <a href="https://junit.org/junit5/" target="_blank">
     <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/junit.png" alt="junit" width="40" height="40" />
   </a>
-
-  </p>
-  <p align="left">
   
   <a href="https://maven.apache.org/" target="_blank">
     <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/maven.png" alt="maven" width="100" height="30" />
