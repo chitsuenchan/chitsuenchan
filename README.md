@@ -17,6 +17,7 @@
   - [REACT Website](https://github.com/chitsuenchan/full-stack-fact-app)
   - [Mobile Testing](https://github.com/chitsuenchan/Mobile-and-API-QA)
   - [iOS Application](https://github.com/chitsuenchan/swiftUI-landmarks-project)
+  - [Android Application](https://github.com/chitsuenchan/Android-Record-Keeper)
   - [Machine Learning](https://github.com/chitsuenchan/machine-learning-titanic-survival)
 
 <h3 align="left">Languages and Tools:</h3>
