@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Chi Tsuen</h1>
 <h3 align="center">I'm a QA engineer/technical BA from the United Kingdom but now I live in Hong Kong for the past 6 years where I have been working in various tech finance projects </h3>
 
-- 🔭 I’m currently working on **Setting up my first android application**
+- 🔭 I’m aiming to **set up my first android application on the Google Play Store**
 
 - 🌱 I’m currently learning **Android Kit, REACT and Kotlin**
 
