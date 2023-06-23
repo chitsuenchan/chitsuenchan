@@ -40,7 +40,7 @@
   </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/html-css-js.png" alt="javascript" width="80" height="40" />
+    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/html-css-js.png" alt="javascript" width="80" height="60" />
   </a>
   
   <a href="https://www.mongodb.com/" target="_blank">
@@ -66,13 +66,13 @@
     <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/selenium.png" alt="selenium" width="40" height="40" />
   </a>
 
-  </p>
-  
-  <p align="left">
-
   <a href="https://jmeter.apache.org" target="_blank">
     <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/jmeter.png" alt="java" width="120" height="40" />
   </a>
+
+  </p>
+  
+  <p align="left">
 
   <a href="https://www.jenkins.io/" target="_blank">
     <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/jenkins.png" alt="java" width="50" height="40" />
