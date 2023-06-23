@@ -61,9 +61,6 @@
   <a href="https://www.photoshop.com/en" target="_blank">
     <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/photoshop.png" alt="photoshop" width="40" height="40" />
   </a>
-
-  </p>
-  <p align="left">
   
   <a href="https://postman.com" target="_blank">
     <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/postman.png" alt="postman" width="40" height="40" />
@@ -80,6 +77,10 @@
   <a href="https://jmeter.apache.org" target="_blank">
     <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/jmeter.png" alt="java" width="120" height="40" />
   </a>
+
+  
+  </p>
+  <p align="left">
   
   <a href="https://www.jenkins.io/" target="_blank">
     <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/jenkins.png" alt="java" width="50" height="40" />
