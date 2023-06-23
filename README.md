@@ -58,8 +58,4 @@
           <a href="https://www.jetbrains.com/teamcity/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/TeamCity_Icon.svg" alt="java" width="40" height="40" />
   </a>
-    </a>
-          <a href="https://www.jetbrains.com/teamcity/" target="_blank">
-    <img src="https://raw.githubusercontent.com/chitsuenchan/Android-Record-Keeper/main/ExampleScreenshots/record_keeper_example_1.jpg" alt="java" width="40" height="40" />
-  </a>
 </p>
