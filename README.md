@@ -81,6 +81,9 @@
   <a href="https://www.jenkins.io/" target="_blank">
     <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/jenkins.png" alt="java" width="50" height="40" />
   </a>
+
+</p>
+<p align="left">
   
   <a href="https://www.jetbrains.com/teamcity/" target="_blank">
     <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/teamcity.png" alt="java" width="40" height="40" />
