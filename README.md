@@ -28,11 +28,11 @@
   </a>
   
   <a href="https://www.java.com" target="_blank">
-    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/java.png" alt="java" width="40" height="40" />
+    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/java.png" alt="java" width="50" height="40" />
   </a>
   
   <a href="https://kotlinlang.org/" target="_blank">
-    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/kotlin.png" alt="kotlin" width="80" height="40" />
+    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/kotlin.png" alt="kotlin" width="120" height="40" />
   </a>
   
   <a href="https://www.swift.org/" target="_blank">
@@ -44,11 +44,11 @@
   </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/css.jpeg" alt="css" width="20" height="40" />
+    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/css.jpeg" alt="css" width="30" height="40" />
   </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/html.jpeg" alt="html" width="20" height="40" />
+    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/html.jpeg" alt="html" width="30" height="40" />
   </a>
   
   <a href="https://www.mongodb.com/" target="_blank">
@@ -67,7 +67,7 @@
   </a>
   
   <a href="https://github.com/puppeteer/puppeteer" target="_blank">
-    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/puppeteer.png" alt="puppeteer" width="20" height="40" />
+    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/puppeteer.png" alt="puppeteer" width="30" height="40" />
   </a>
 
   <a href="https://www.selenium.dev" target="_blank">
