@@ -91,7 +91,7 @@
   </a>
   
   <a href="https://maven.apache.org/" target="_blank">
-    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/maven.png" alt="maven" width="80" height="40" />
+    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/maven.png" alt="maven" width="100" height="30" />
   </a>
   
   <a href="https://www.npmjs.com/" target="_blank">
@@ -103,7 +103,7 @@
   </a>
   
   <a href="https://www.microsoft.com/en-sg/microsoft-365/powerpoint?ms.officeurl=powerpoint&rtc=1" target="_blank">
-    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/powerpoint.png" alt="powerpoint" width="30" height="40" />
+    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/powerpoint.png" alt="powerpoint" width="30" height="30" />
   </a>
 
   <a href="https://docs.pytest.org/en/7.3.x/" target="_blank">
@@ -111,11 +111,11 @@
   </a>
   
   <a href="https://www.microsoft.com/en-gb/microsoft-365/visio/flowchart-software" target="_blank">
-    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/visio.png" alt="visio" width="30" height="40" />
+    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/visio.png" alt="visio" width="30" height="30" />
   </a>
   
   <a href="https://www.microsoft.com" target="_blank">
-    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/excel.png" alt="excel" width="30" height="40" />
+    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/excel.png" alt="excel" width="30" height="30" />
   </a>
   
 </p>
