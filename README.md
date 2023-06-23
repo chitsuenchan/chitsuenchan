@@ -26,13 +26,13 @@
     <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/javascript.png" alt="javascript" width="40" height="40" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
+    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/mongodb.png" alt="mongodb" width="40" height="40" />
   </a>
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/mysql.png" alt="mysql" width="40" height="40" />
   </a>
   <a href="https://www.photoshop.com/en" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
+    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/photoshop.png" alt="photoshop" width="40" height="40" />
   </a>
   <a href="https://postman.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
