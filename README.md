@@ -35,25 +35,25 @@
     <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/photoshop.png" alt="photoshop" width="40" height="40" />
   </a>
   <a href="https://postman.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
+    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/postman.png" alt="postman" width="40" height="40" />
   </a>
   <a href="https://github.com/puppeteer/puppeteer" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40" />
+    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/puppeteer.png" alt="puppeteer" width="40" height="40" />
   </a>
   <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/python.png" alt="python" width="40" height="40" />
   </a>
   <a href="https://www.selenium.dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" />
+    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/selenium.png" alt="selenium" width="40" height="40" />
   </a>
     <a href="https://www.java.com" target="_blank">
-    <img src="https://static.javatpoint.com/core/images/java-logo1.png" alt="java" width="70" height="40" />
+    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/java.png" alt="java" width="70" height="40" />
   </a>
       <a href="https://jmeter.apache.org" target="_blank">
-    <img src="https://jmeter.apache.org/images/logo.svg" alt="java" width="120" height="40" />
+    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/jmeter.png" alt="java" width="120" height="40" />
   </a>
         <a href="https://www.jenkins.io/" target="_blank">
-    <img src="https://sg.mirror.servanamanaged.com/jenkins/art/jenkins-logo/1024x1024/logo.png" alt="java" width="30" height="40" />
+    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/jenkins.png" alt="java" width="30" height="40" />
   </a>
           <a href="https://www.jetbrains.com/teamcity/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/TeamCity_Icon.svg" alt="java" width="40" height="40" />
