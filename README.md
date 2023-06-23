@@ -22,8 +22,20 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/python.png" alt="python" width="40" height="40" />
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/java.png" alt="java" width="70" height="40" />
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/javascript.png" alt="javascript" width="40" height="40" />
+  </a>
+  <a href="https://kotlinlang.org/" target="_blank">
+    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/kotlin.png" alt="kotlin" width="40" height="40" />
+  </a>
+  <a href="https://www.swift.org/" target="_blank">
+    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/swift.png" alt="swift" width="40" height="40" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/mongodb.png" alt="mongodb" width="40" height="40" />
@@ -40,15 +52,11 @@
   <a href="https://github.com/puppeteer/puppeteer" target="_blank">
     <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/puppeteer.png" alt="puppeteer" width="40" height="40" />
   </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/python.png" alt="python" width="40" height="40" />
-  </a>
+
   <a href="https://www.selenium.dev" target="_blank">
     <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/selenium.png" alt="selenium" width="40" height="40" />
   </a>
-    <a href="https://www.java.com" target="_blank">
-    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/java.png" alt="java" width="70" height="40" />
-  </a>
+
   <a href="https://jmeter.apache.org" target="_blank">
     <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/jmeter.png" alt="java" width="120" height="40" />
   </a>
@@ -66,9 +74,6 @@
   </a>
     <a href="https://junit.org/junit5/" target="_blank">
     <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/junit.png" alt="junit" width="40" height="40" />
-  </a>
-    <a href="https://kotlinlang.org/" target="_blank">
-    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/kotlin.png" alt="kotlin" width="40" height="40" />
   </a>
     <a href="https://maven.apache.org/" target="_blank">
     <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/maven.png" alt="maven" width="40" height="40" />
@@ -88,11 +93,6 @@
     <a href="https://docs.pytest.org/en/7.3.x/" target="_blank">
     <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/pytest.png" alt="pytest" width="40" height="40" />
   </a>
-      </a>
-    <a href="https://www.swift.org/" target="_blank">
-    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/swift.png" alt="swift" width="40" height="40" />
-  </a>
-    </a>
     <a href="https://www.microsoft.com/en-gb/microsoft-365/visio/flowchart-software" target="_blank">
     <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/visio.png" alt="visio" width="40" height="40" />
   </a>
