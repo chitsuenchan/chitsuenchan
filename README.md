@@ -32,7 +32,7 @@
   </a>
   
   <a href="https://kotlinlang.org/" target="_blank">
-    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/kotlin.png" alt="kotlin" width="120" height="40" />
+    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/kotlin.png" alt="kotlin" width="120" height="30" />
   </a>
   
   <a href="https://www.swift.org/" target="_blank">
