@@ -61,6 +61,9 @@
   <a href="https://www.photoshop.com/en" target="_blank">
     <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/photoshop.png" alt="photoshop" width="40" height="40" />
   </a>
+
+  </p>
+  <p align="left">
   
   <a href="https://postman.com" target="_blank">
     <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/postman.png" alt="postman" width="40" height="40" />
@@ -69,10 +72,6 @@
   <a href="https://github.com/puppeteer/puppeteer" target="_blank">
     <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/puppeteer.png" alt="puppeteer" width="30" height="40" />
   </a>
-
-  
-  </p>
-  <p align="left">
 
   <a href="https://www.selenium.dev" target="_blank">
     <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/selenium.png" alt="selenium" width="40" height="40" />
