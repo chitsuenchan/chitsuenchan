@@ -40,7 +40,7 @@
   </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/javascript.jpeg" alt="javascript" width="40" height="40" />
+    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/javascript.png" alt="javascript" width="40" height="40" />
   </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
@@ -48,7 +48,7 @@
   </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/html.png" alt="html" width="40" height="40" />
+    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/html.jpeg" alt="html" width="40" height="40" />
   </a>
   
   <a href="https://www.mongodb.com/" target="_blank">
