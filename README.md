@@ -49,13 +49,51 @@
     <a href="https://www.java.com" target="_blank">
     <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/java.png" alt="java" width="70" height="40" />
   </a>
-      <a href="https://jmeter.apache.org" target="_blank">
+  <a href="https://jmeter.apache.org" target="_blank">
     <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/jmeter.png" alt="java" width="120" height="40" />
   </a>
-        <a href="https://www.jenkins.io/" target="_blank">
+  <a href="https://www.jenkins.io/" target="_blank">
     <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/jenkins.png" alt="java" width="30" height="40" />
   </a>
-          <a href="https://www.jetbrains.com/teamcity/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/TeamCity_Icon.svg" alt="java" width="40" height="40" />
+  <a href="https://www.jetbrains.com/teamcity/" target="_blank">
+    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/teamcity.png" alt="java" width="40" height="40" />
+  </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/css.png" alt="css" width="40" height="40" />
+  </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/html.png" alt="html" width="40" height="40" />
+  </a>
+    <a href="https://junit.org/junit5/" target="_blank">
+    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/junit.png" alt="junit" width="40" height="40" />
+  </a>
+    <a href="https://kotlinlang.org/" target="_blank">
+    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/kotlin.png" alt="kotlin" width="40" height="40" />
+  </a>
+    <a href="https://maven.apache.org/" target="_blank">
+    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/maven.png" alt="maven" width="40" height="40" />
+  </a>
+    <a href="https://www.npmjs.com/" target="_blank">
+    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/npm.png" alt="npm" width="40" height="40" />
+  </a>
+    </a>
+    <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/postgres.png" alt="postgres" width="40" height="40" />
+  </a>
+    </a>
+    <a href="https://www.microsoft.com/en-sg/microsoft-365/powerpoint?ms.officeurl=powerpoint&rtc=1" target="_blank">
+    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/powerpoint.png" alt="powerpoint" width="40" height="40" />
+  </a>
+    </a>
+    <a href="https://docs.pytest.org/en/7.3.x/" target="_blank">
+    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/pytest.png" alt="pytest" width="40" height="40" />
+  </a>
+      </a>
+    <a href="https://www.swift.org/" target="_blank">
+    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/swift.png" alt="swift" width="40" height="40" />
+  </a>
+    </a>
+    <a href="https://www.microsoft.com/en-gb/microsoft-365/visio/flowchart-software" target="_blank">
+    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/visio.png" alt="visio" width="40" height="40" />
   </a>
 </p>
