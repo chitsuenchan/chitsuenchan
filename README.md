@@ -24,11 +24,11 @@
 <p align="left">
   
   <a href="https://www.python.org" target="_blank">
-    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/python.png" alt="python" width="40" height="40" />
+    <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/python.png" alt="python" width="40" height="40" />
   </a>
   
   <a href="https://www.java.com" target="_blank">
-    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/java.png" alt="java" width="50" height="40" />
+    <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/java.png" alt="java" width="50" height="40" />
   </a>
   
   <a href="https://kotlinlang.org/" target="_blank">
