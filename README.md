@@ -91,7 +91,7 @@
   </a>
   
   <a href="https://www.npmjs.com/" target="_blank">
-    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/npm.png" alt="npm" width="60" height="40" />
+    <img src="https://github.com/chitsuenchan/tools_and_languages/blob/main/npm.png" alt="npm" width="60" height="30" />
   </a>
   
   <a href="https://www.postgresql.org/" target="_blank">
