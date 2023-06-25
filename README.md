@@ -55,7 +55,7 @@
   </a>
   
   <a href="https://postman.com" target="_blank">
-    <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/postman.png" alt="postman" width="40" height="40" />
+    <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/postman.png" alt="postman" width="45" height="40" />
   </a>
   
   <a href="https://github.com/puppeteer/puppeteer" target="_blank">
