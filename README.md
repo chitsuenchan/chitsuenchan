@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Chi Tsuen</h1>
-<h3 align="center">I'm a QA engineer/technical BA from the United Kingdom but now I live in Hong Kong for the past 6 years where I have been working in various tech finance projects </h3>
+<h3 align="center">I'm a Software Developer from the United Kingdom but now I live in Hong Kong for the past 6 years where I have been working in various tech finance projects </h3>
 
 - 🔭 I’m aiming to **deploy my first android application on the Google Play Store**
 
