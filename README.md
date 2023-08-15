@@ -35,14 +35,14 @@
     <tr>
       <td>Screenshots</td>
       <td>
-        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/example-form1.jpg" alt="react-app" height="300" />
+        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/example-form1.jpg" height="300" />
       </td>
     </tr>
   </tbody>
 </table>
 <br>
  
-<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/android.png" alt="python" width="20" height="20" /> Android Mobile Applications 
+<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/android.png" width="20" height="20" /> Android Mobile Applications 
 
 <table>
   <tbody>
@@ -59,14 +59,14 @@
     <tr>
       <td>Screenshots</td>
       <td>
-        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/record_keeper_example_1.jpg" alt="react-app" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/record_keeper_example_2.jpg" alt="react-app" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/record_keeper_example_3.jpg" alt="react-app" height="400" />
+        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/record_keeper_example_1.jpg" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/record_keeper_example_2.jpg" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/record_keeper_example_3.jpg" height="400" />
       </td>
     </tr>
   </tbody>
 </table>
 <br>
 
-<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/apple-logo.png" alt="python" width="20" height="20" /> iOS Mobile Applications 
+<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/apple-logo.png" width="20" height="20" /> iOS Mobile Applications 
 
 <table>
   <tbody>
@@ -83,7 +83,7 @@
     <tr>
       <td>Screenshots</td>
       <td>
-        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/example-homeScreen.jpg" alt="react-app" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/example-login.jpg" alt="react-app" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/example-chatView.jpg" alt="react-app" height="400" />
+        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/example-homeScreen.jpg" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/example-login.jpg" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/example-chatView.jpg" height="400" />
       </td>
     </tr>
     <tr>
@@ -103,7 +103,7 @@
     <tr>
       <td>Screenshots</td>
       <td>
-        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/example-detail.jpg" alt="react-app" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/example-featured.jpg" alt="react-app" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/example-list.jpg" alt="react-app" height="400" />
+        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/example-detail.jpg" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/example-featured.jpg" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/example-list.jpg" height="400" />
       </td>
     </tr>
     <tr>
@@ -123,7 +123,7 @@
     <tr>
       <td>Screenshots</td>
       <td>
-        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/hongKong.jpg" alt="react-app" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/lightmode.jpg" alt="react-app" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/darkmode.jpg" alt="react-app" height="400" />
+        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/hongKong.jpg" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/lightmode.jpg" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/darkmode.jpg" height="400" />
       </td>
     </tr>
     <tr>
@@ -139,7 +139,7 @@
     <tr>
       <td>Screenshots</td>
       <td>
-        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/home-1.jpg" alt="react-app" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/home-2.jpg" alt="react-app" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/home-3.jpg" alt="react-app" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/home-4.jpg" alt="react-app" height="400" />
+        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/home-1.jpg" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/home-2.jpg" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/home-3.jpg" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/home-4.jpg" height="400" />
       </td>
     </tr>
     <tr>
@@ -159,14 +159,14 @@
     <tr>
       <td>Screenshots</td>
       <td>
-        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/xylophone.jpg" alt="react-app" height="400" />
+        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/xylophone.jpg" height="400" />
       </td>
     </tr>
   </tbody>
 </table>
 <br>
 
-<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/machine-learning2.png" alt="machine-learning" width="20" height="20" /> Machine Learning 
+<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/machine-learning2.png" width="20" height="20" /> Machine Learning 
 
 <table>
   <tbody>
@@ -183,7 +183,7 @@
     <tr>
       <td>Screenshots</td>
       <td>
-        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/titanic_image.jpg" alt="react-app" height="400" />
+        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/titanic_image.jpg" alt="machine-learning" height="400" />
       </td>
     </tr>
   </tbody>
