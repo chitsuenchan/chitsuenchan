@@ -20,36 +20,6 @@
   - [Mobile Testing](https://github.com/chitsuenchan/Mobile-and-API-QA)
   - [Machine Learning](https://github.com/chitsuenchan/machine-learning-titanic-survival)
 
-<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/android.png" alt="python" width="20" height="20" /> Android Mobile Applications 
-
-<table>
-  <tbody>
-    <tr>
-      <td>Project</td>
-      <td>
-        <a href="https://github.com/chitsuenchan/Android-Record-Keeper">Sports Record Keeper (Link here)</a>
-      </td>
-    </tr>
-    <tr>
-      <td>Summary</td>
-      <td>Provides user the ability to save cycling and running records.</td>
-    </tr>
-    <tr>
-      <td>Notable Technology Utilized</td>
-      <td>
-          <ul>
-              <li>Kotlin Language</li>
-              <li>Android Native Components</li>
-              <li>Material Design</li>
-              <li>Fragmented activity views</li>
-              <li>Scrollable list of records</li>
-              <li>Storing data on phone memory</li>            
-          </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
 <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/react.png" alt="react" width="20" height="20" /> Front-end React Applications
 
 <table>
@@ -74,6 +44,36 @@
               <li>POST API to share fact</li>
               <li>GET API and SQL to retrieve forum facts</li>
               <li>Layout desinging, use states and onclicklisteners</li>     
+          </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/android.png" alt="python" width="20" height="20" /> Android Mobile Applications 
+
+<table>
+  <tbody>
+    <tr>
+      <td>Project</td>
+      <td>
+        <a href="https://github.com/chitsuenchan/Android-Record-Keeper">Sports Record Keeper (Link here)</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Summary</td>
+      <td>Provides user the ability to save cycling and running records.</td>
+    </tr>
+    <tr>
+      <td>Notable Technology Utilized</td>
+      <td>
+          <ul>
+              <li>Kotlin Language</li>
+              <li>Android Native Components</li>
+              <li>Material Design</li>
+              <li>Fragmented activity views</li>
+              <li>Scrollable list of records</li>
+              <li>Storing data on phone memory</li>            
           </ul>
       </td>
     </tr>
