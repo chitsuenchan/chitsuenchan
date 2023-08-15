@@ -133,6 +133,22 @@
     <tr>
       <td>Project</td>
       <td>
+        <a href="https://github.com/chitsuenchan/BMI_Calculator">BMI Calculator app (Link here)</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Screenshots</td>
+      <td>
+        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/home-1.jpg" alt="react-app" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/home-2.jpg" alt="react-app" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/home-3.jpg" alt="react-app" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/home-4.jpg" alt="react-app" height="400" />
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Project</td>
+      <td>
         <a href="https://github.com/chitsuenchan/Xylophone-iOS13">Xylophone Music app (Link here)</a>
       </td>
     </tr>
@@ -144,22 +160,6 @@
       <td>Screenshots</td>
       <td>
         <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/xylophone.jpg" alt="react-app" height="400" />
-      </td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Project</td>
-      <td>
-        <a href="https://github.com/chitsuenchan/BMI_Calculator">BMI Calculator app (Link here)</a>
-      </td>
-    </tr>
-    <tr>
-      <td>Screenshots</td>
-      <td>
-        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/home-1.jpg" alt="react-app" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/home-2.jpg" alt="react-app" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/home-3.jpg" alt="react-app" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/home-4.jpg" alt="react-app" height="400" />
       </td>
     </tr>
   </tbody>
