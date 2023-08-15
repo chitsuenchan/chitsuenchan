@@ -32,7 +32,7 @@
     </tr>
     <tr>
       <td>Summary</td>
-      <td>A full stack application where you can share facts across various categories and rank them.</td>
+      <td>A full stack react app where you can share facts across various categories and rank them.</td>
     </tr>
     <tr>
       <td>Notable Technology Utilized</td>
@@ -62,7 +62,7 @@
     </tr>
     <tr>
       <td>Summary</td>
-      <td>An app where users can save personal cycling and running records.</td>
+      <td>Mobile app where you can record personal cycling and running records.</td>
     </tr>
     <tr>
       <td>Notable Technology Utilized</td>
@@ -87,12 +87,42 @@
     <tr>
       <td>Project</td>
       <td>
+        <a href="https://github.com/chitsuenchan/swiftUI-landmarks-project">WhatsApp Copy App (Link here)</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Summary</td>
+      <td>Mobile full stack WhatsApp copy app where users can register, login and message each other in a chatroom. Messages are stored in Google Firebase</td>
+    </tr>
+    <tr>
+      <td>Notable Technology Utilized</td>
+      <td>
+        <ul>
+          <li>Swift Language + Storyboard</li>
+          <li>Google Firebase and front-end integration</li>
+          <li>Retrieve, sort and display cloud storage messages</li>
+          <li>TableViews and custom XIB cells</li>
+          <li>Animating the UI</li>
+          <li>Cocoapods package manager</li>
+          <li>Multiple screens</li>
+          <li>Feature - Registration, login authentication of users and log out</li>
+          <li>Feature - Instant chat messaging between users</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Project</td>
+      <td>
         <a href="https://github.com/chitsuenchan/swiftUI-landmarks-project">Landmarks App (Link here)</a>
       </td>
     </tr>
     <tr>
       <td>Summary</td>
-      <td>Display landmarks with details and geographical information. Users can also favourite landmarks and filter a scrollable list of Landmarks to just their favourites.</td>
+      <td>Mobile app displaying landmarks with details and an interactive map. Users can favourite landmarks and filter them.</td>
     </tr>
     <tr>
       <td>Notable Technology Utilized</td>
@@ -118,7 +148,7 @@
     </tr>
     <tr>
       <td>Summary</td>
-      <td>Weather app that utilizes 3rd party API to display weather information from around the world</td>
+      <td>Mobile weather app that uses an external API to display weather information from around the world.</td>
     </tr>
     <tr>
       <td>Notable Technology Utilized</td>
@@ -138,42 +168,12 @@
     <tr>
       <td>Project</td>
       <td>
-        <a href="https://github.com/chitsuenchan/swiftUI-landmarks-project">WhatsApp Copy App (Link here)</a>
-      </td>
-    </tr>
-    <tr>
-      <td>Summary</td>
-      <td>Full stack WhatsApp copy where users can register, login and message each other in a chatroom. Messages are stored in Google Firebase</td>
-    </tr>
-    <tr>
-      <td>Notable Technology Utilized</td>
-      <td>
-        <ul>
-          <li>Swift Language + Storyboard</li>
-          <li>Google Firebase and front-end integration</li>
-          <li>Retrieve, sort and display cloud storage messages</li>
-          <li>TableViews and custom XIB cells</li>
-          <li>Animating the UI</li>
-          <li>Cocoapods package manager</li>
-          <li>Multiple screens</li>
-          <li>Feature - Registration, login authentication of users and log out</li>
-          <li>Feature - Instant chat messaging between users</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Project</td>
-      <td>
         <a href="https://github.com/chitsuenchan/swiftUI-landmarks-project">Xylophone Music app (Link here)</a>
       </td>
     </tr>
     <tr>
       <td>Summary</td>
-      <td>A Xylophone app where users can play the Xylophone and plays different sounds from the user's device</td>
+      <td>Mobile app where users can play the Xylophone</td>
     </tr>
     <tr>
       <td>Notable Technology Utilized</td>
@@ -197,7 +197,7 @@
     </tr>
     <tr>
       <td>Summary</td>
-      <td>A calculator app demonstrating knowledge of iOS layout design</td>
+      <td>Mobile app demonstrating knowledge of iOS layout design</td>
     </tr>
     <tr>
       <td>Notable Technology Utilized</td>
