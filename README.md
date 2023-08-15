@@ -47,7 +47,7 @@
     </tr>
   </tbody>
 </table>
-
+<br>
  
 <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/android.png" alt="python" width="20" height="20" /> Android Mobile Applications 
 
@@ -209,6 +209,7 @@
     </tr>
   </tbody>
 </table>
+<br>
 
 <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/machine-learning.png" alt="machine-learning" width="35" height="20" /> Machine Learning 
 
