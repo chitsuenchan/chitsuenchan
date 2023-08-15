@@ -99,14 +99,15 @@
       <td>
         <ul>
           <li>Swift Language + Storyboard</li>
-          <li>Google Firebase and front-end integration</li>
-          <li>Retrieve, sort and display cloud storage messages</li>
-          <li>TableViews and custom XIB cells</li>
-          <li>Animating the UI</li>
-          <li>Cocoapods package manager</li>
-          <li>Multiple screens</li>
-          <li>Feature - Registration, login authentication of users and log out</li>
-          <li>Feature - Instant chat messaging between users</li>
+          <li>Storing data in the cloud using Firebase Firestore</li>
+          <li>Querying and sorting Firebase database</li>
+          <li>Firebase for user authentication, registration and login</li>
+          <li>Using UITableViews and setting their data sources and delegates</li>
+          <li>Creating custom views using .xib files to modify native design components</li>
+          <li>Embedding View Controllers in a Navigation Controller and understanding navigation stack</li>
+          <li>Creating constants file and use static properties to store Strings and other constants</li>
+          <li>Create animations using loops</li>
+          <li>Using direct Segues for navigation</li>
         </ul>
       </td>
     </tr>
