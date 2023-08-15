@@ -110,6 +110,34 @@
   </tbody>
 </table>
 
+<table>
+  <tbody>
+    <tr>
+      <td>Project</td>
+      <td>
+        <a href="https://github.com/chitsuenchan/swiftUI-landmarks-project">Weather App (Link here)</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Summary</td>
+      <td>Weather app that utilizes 3rd party API to display weather information from around the world</td>
+    </tr>
+    <tr>
+      <td>Notable Technology Utilized</td>
+      <td>
+          <ul>
+              <li>Swift Language</li>
+              <li>Storyboard</li>
+              <li>Utilizes 3rd party API for weather data</li>
+              <li>Feature - </li>
+              <li>Feature - User able to select favourite landmarks</li>
+              <li>Feature - Maps integration</li>            
+          </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 
