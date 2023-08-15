@@ -50,8 +50,7 @@
   </tbody>
 </table>
 
-Front-end React Applications
-<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/react.png" alt="react" width="20" height="20" />
+<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/react.png" alt="react" width="20" height="20" /> Front-end React Applications
 
 <table>
   <tbody>
@@ -81,31 +80,30 @@ Front-end React Applications
   </tbody>
 </table>
 
-iOS Mobile Applications 
-<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/apple-logo.png" alt="python" width="20" height="20" />
+<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/apple-logo.png" alt="python" width="20" height="20" /> iOS Mobile Applications 
 
 <table>
   <tbody>
     <tr>
       <td>Project</td>
       <td>
-        <a href="https://github.com/chitsuenchan/Android-Record-Keeper">Sports Record Keeper (Link here)</a>
+        <a href="https://github.com/chitsuenchan/swiftUI-landmarks-project">Landmarks (Link here)</a>
       </td>
     </tr>
     <tr>
       <td>Summary</td>
-      <td>Provides user the ability to save cycling and running records.</td>
+      <td>Display landmarks with details and geographical information. Users can also favourite landmarks and filter a scrollable list of Landmarks to just their favourites.</td>
     </tr>
     <tr>
       <td>Notable Technology Utilized</td>
       <td>
           <ul>
-              <li>Kotlin Language</li>
-              <li>Android Native Components</li>
-              <li>Material Design</li>
-              <li>Fragmented activity views</li>
-              <li>Scrollable list of records</li>
-              <li>Storing data on phone memory</li>            
+              <li>Swift Language</li>
+              <li>SwiftUI</li>
+              <li>Feature - Bottom Navigation Bar</li>
+              <li>Feature - Horizontal scrollable cards filtered by category</li>
+              <li>Feature - User able to select favourite landmarks</li>
+              <li>Feature - Maps integration</li>            
           </ul>
       </td>
     </tr>
