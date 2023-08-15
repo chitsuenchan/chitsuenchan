@@ -183,7 +183,7 @@
     <tr>
       <td>Screenshots</td>
       <td>
-        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/titanic_image.jpg" alt="machine-learning" height="200" />
+        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/titanic_image.jpg" alt="machine-learning" height="200" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/titanic_1.jpg" alt="machine-learning" height="200" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/titanic_2.jpg" alt="machine-learning" height="200" />
       </td>
     </tr>
   </tbody>
