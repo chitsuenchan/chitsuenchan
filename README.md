@@ -15,6 +15,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+<blockquote>
   
   <a href="https://www.python.org" target="_blank">
     <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/python.png" alt="python" width="40" height="40" />
@@ -110,7 +111,7 @@
   <a href="https://react.dev/" target="_blank">
     <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/react.png" alt="react" width="40" height="40" />
   </a>
-    
+</blockquote>
 </p>
 
 - 👨‍💻 Here are the links to some of my projects:
