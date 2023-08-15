@@ -82,6 +82,37 @@ Front-end React Applications
   </tbody>
 </table>
 
+iOS Mobile Applications 
+<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/apple-logo.png" alt="python" width="20" height="20" />
+
+<table>
+  <tbody>
+    <tr>
+      <td>Project</td>
+      <td>
+        <a href="https://github.com/chitsuenchan/Android-Record-Keeper">Sports Record Keeper (Link here)</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Summary</td>
+      <td>Provides user the ability to save cycling and running records.</td>
+    </tr>
+    <tr>
+      <td>Notable Technology Utilized</td>
+      <td>
+          <ul>
+              <li>Kotlin Language</li>
+              <li>Android Native Components</li>
+              <li>Material Design</li>
+              <li>Fragmented activity views</li>
+              <li>Scrollable list of records</li>
+              <li>Storing data on phone memory</li>            
+          </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 
