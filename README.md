@@ -51,6 +51,37 @@ Android Mobile Applications
   </tbody>
 </table>
 
+Front-end React Applications
+<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/react.png" alt="react" width="20" height="20" />
+
+<table>
+  <tbody>
+    <tr>
+      <td>Project</td>
+      <td>
+        <a href="https://github.com/chitsuenchan/full-stack-fact-app">Fun Facts Forum (Link here)</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Summary</td>
+      <td>A forum</td>
+    </tr>
+    <tr>
+      <td>Notable Technology Utilized</td>
+      <td>
+          <ul>
+              <li>Kotlin Language</li>
+              <li>Android Native Components</li>
+              <li>Material Design</li>
+              <li>Fragmented activity views</li>
+              <li>Scrollable list of records</li>
+              <li>Storing data on phone memory</li>            
+          </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 
