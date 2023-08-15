@@ -17,6 +17,7 @@
 
 <h1 align="center">Projects</h1>
 
+
 <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/react.png" alt="react" width="20" height="20" /> Front-end React Applications
 
 <table>
