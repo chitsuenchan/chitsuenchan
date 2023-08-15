@@ -161,6 +161,53 @@
         </ul>
       </td>
     </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Project</td>
+      <td>
+        <a href="https://github.com/chitsuenchan/swiftUI-landmarks-project">Xylophone Music app (Link here)</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Summary</td>
+      <td>A Xylophone app where users can play the Xylophone and plays different sounds from the user's device</td>
+    </tr>
+    <tr>
+      <td>Notable Technology Utilized</td>
+      <td>
+        <ul>
+          <li>Swift Language + Storyboard</li>
+          <li>Layout and constraint designing</li>
+          <li>Layout and constraint designing</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Project</td>
+      <td>
+        <a href="https://github.com/chitsuenchan/swiftUI-landmarks-project">Calculator app (Link here)</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Summary</td>
+      <td>A calculator app demonstrating knowledge of iOS layout design</td>
+    </tr>
+    <tr>
+      <td>Notable Technology Utilized</td>
+      <td>
+        <ul>
+          <li>Swift Language + Storyboard</li>
+          <li>Layout and constraint designing</li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table>
 
