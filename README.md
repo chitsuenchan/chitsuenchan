@@ -121,22 +121,9 @@
       <td>Mobile weather app that uses an external API to display weather information from around the world.</td>
     </tr>
     <tr>
-      <td>Notable Technology Utilized</td>
+      <td>Screenshots</td>
       <td>
-        <ul>
-          <li>Swift Language + Storyboard</li>
-          <li>Creating a dark-mode enabled app</li>
-          <li>Usage of vector images as image assets</li>
-          <li>UITextField for user input</li>
-          <li>Delegate pattern design</li>
-          <li>Swift protocols and extensions</li>
-          <li>Uses the URLSession to network and make HTTP requests</li>
-          <li>Parse JSON with native Encodable and Decodable protocols</li>
-          <li>Uses the Grand Central Dispatch to fetch the main thread</li>
-          <li>Retrieval of Core Location to get the current location from the phone GPS</li>
-          <li>Feature - Weather information display</li>
-          <li>Feature - User able to select favourite locations</li>
-        </ul>
+        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/hongKong.jpg" alt="react-app" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/lightmode.jpg" alt="react-app" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/darkmode.jpg" alt="react-app" height="400" />
       </td>
     </tr>
     <tr>
