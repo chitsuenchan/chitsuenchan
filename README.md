@@ -25,7 +25,7 @@
     <tr>
       <td>Project</td>
       <td>
-        <a href="https://github.com/chitsuenchan/full-stack-fact-app">Fun Facts Forum (Link here)</a>
+        <a href="https://github.com/chitsuenchan/full-stack-fact-app">Fun Facts Forum (More info here)</a>
       </td>
     </tr>
     <tr>
