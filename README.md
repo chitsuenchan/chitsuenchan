@@ -35,7 +35,7 @@
     <tr>
       <td>Screenshots</td>
       <td>
-        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/example-form1.jpg" alt="react-app" height="200" />
+        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/example-form1.jpg" alt="react-app" height="300" />
       </td>
     </tr>
   </tbody>
@@ -59,7 +59,7 @@
     <tr>
       <td>Screenshots</td>
       <td>
-        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/record_keeper_example_1.jpg" alt="react-app" height="200" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/record_keeper_example_2.jpg" alt="react-app" height="200" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/record_keeper_example_3.jpg" alt="react-app" height="200" />
+        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/record_keeper_example_1.jpg" alt="react-app" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/record_keeper_example_2.jpg" alt="react-app" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/record_keeper_example_3.jpg" alt="react-app" height="400" />
       </td>
     </tr>
   </tbody>
