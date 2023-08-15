@@ -156,7 +156,15 @@
       <td>
         <ul>
           <li>Swift Language + Storyboard</li>
-          <li>Utilizes 3rd party API for weather data</li>
+          <li>Creating a dark-mode enabled app</li>
+          <li>Usage of vector images as image assets</li>
+          <li>UITextField for user input</li>
+          <li>Delegate pattern design</li>
+          <li>Swift protocols and extensions</li>
+          <li>Uses the URLSession to network and make HTTP requests</li>
+          <li>Parse JSON with native Encodable and Decodable protocols</li>
+          <li>Uses the Grand Central Dispatch to fetch the main thread</li>
+          <li>Retrieval of Core Location to get the current location from the phone GPS</li>
           <li>Feature - Weather information display</li>
           <li>Feature - User able to select favourite locations</li>
         </ul>
@@ -183,6 +191,7 @@
           <li>Swift Language + Storyboard</li>
           <li>Layout and constraint designing</li>
           <li>AVFoundation package to play sounds</li>
+          <li>Error handling</li>
         </ul>
       </td>
     </tr>
