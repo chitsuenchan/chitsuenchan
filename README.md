@@ -213,7 +213,7 @@
 </table>
 <br>
 
-<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/machine-learning2.png" alt="machine-learning" width="35" height="20" /> Machine Learning 
+<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/machine-learning2.png" alt="machine-learning" width="20" height="20" /> Machine Learning 
 
 <table>
   <tbody>
