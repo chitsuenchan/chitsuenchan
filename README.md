@@ -215,6 +215,7 @@
         <ul>
           <li>Swift Language + Storyboard</li>
           <li>Creating multi-screen and animated navigation</li>
+          <li>Slider widget</li>
           <li>Optional binding, optional chaining and nil coalescing operator</li>
           <li>Usage of classes and structs</li>
           <li>Pass values and pass by reference</li>
