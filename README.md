@@ -62,7 +62,7 @@
     </tr>
     <tr>
       <td>Summary</td>
-      <td>Provides user the ability to save cycling and running records.</td>
+      <td>An app where users can save personal cycling and running records.</td>
     </tr>
     <tr>
       <td>Notable Technology Utilized</td>
