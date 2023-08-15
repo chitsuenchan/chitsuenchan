@@ -115,6 +115,10 @@
       <td></td>
     </tr>
     <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Project</td>
       <td>
         <a href="https://github.com/chitsuenchan/swiftUI-landmarks-project">Landmarks App (Link here)</a>
@@ -135,6 +139,10 @@
           <li>Feature - Maps integration</li>
         </ul>
       </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td></td>
@@ -166,6 +174,10 @@
       <td></td>
     </tr>
     <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Project</td>
       <td>
         <a href="https://github.com/chitsuenchan/swiftUI-landmarks-project">Xylophone Music app (Link here)</a>
@@ -184,6 +196,10 @@
           <li>Layout and constraint designing</li>
         </ul>
       </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td></td>
