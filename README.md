@@ -98,8 +98,7 @@
       <td>Notable Technology Utilized</td>
       <td>
           <ul>
-              <li>Swift Language</li>
-              <li>SwiftUI</li>
+              <li>Swift Language + SwiftUI</li>
               <li>Feature - Bottom Navigation Bar</li>
               <li>Feature - Horizontal scrollable cards filtered by category</li>
               <li>Feature - User able to select favourite landmarks</li>
@@ -107,10 +106,12 @@
           </ul>
       </td>
     </tr>
+    
     <tr>
       <td></td>
       <td></td>
     </tr>
+    
     <tr>
       <td>Project</td>
       <td>
@@ -125,8 +126,7 @@
       <td>Notable Technology Utilized</td>
       <td>
           <ul>
-              <li>Swift Language</li>
-              <li>Storyboard</li>
+              <li>Swift Language + Storyboard</li>
               <li>Utilizes 3rd party API for weather data</li>
               <li>Feature - </li>
               <li>Feature - User able to select favourite landmarks</li>
@@ -134,39 +134,40 @@
           </ul>
       </td>
     </tr>
-  </tbody>
-</table>
 
-<table>
-  <tbody>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    
     <tr>
       <td>Project</td>
       <td>
-        <a href="https://github.com/chitsuenchan/swiftUI-landmarks-project">Weather App (Link here)</a>
+        <a href="https://github.com/chitsuenchan/swiftUI-landmarks-project">WhatsApp Copy (Link here)</a>
       </td>
     </tr>
     <tr>
       <td>Summary</td>
-      <td>Weather app that utilizes 3rd party API to display weather information from around the world</td>
+      <td>Full stack WhatsApp copy where users can register, login and message each other in a chatroom. Messages are stored in Google Firebase</td>
     </tr>
     <tr>
       <td>Notable Technology Utilized</td>
       <td>
           <ul>
-              <li>Swift Language</li>
-              <li>Storyboard</li>
-              <li>Utilizes 3rd party API for weather data</li>
-              <li>Feature - </li>
-              <li>Feature - User able to select favourite landmarks</li>
-              <li>Feature - Maps integration</li>            
+              <li>Swift Language + Storyboard</li>
+              <li>Google Firebase and front-end integration</li>
+              <li>retrieve, sort and display cloud storage messages</li>
+              <li>tableViews and custom XIB cells</li>
+              <li>Animating the UI</li>
+              <li>Cocoapods package manager</li>
+              <li>Multiple screens</li>
+              <li>Feature - Registration, login authetication of users and log out</li>
+              <li>Feature - Instant chat messaging between users</li>
           </ul>
       </td>
     </tr>
   </tbody>
 </table>
-
-
-
 
 
 
