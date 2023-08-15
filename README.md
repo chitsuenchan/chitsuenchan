@@ -189,9 +189,6 @@
   </tbody>
 </table>
 
-
-
-
 <h3 align="left">Languages and Tools Experience:</h3>
 <p align="left">
   
