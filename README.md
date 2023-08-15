@@ -97,16 +97,15 @@
     <tr>
       <td>Notable Technology Utilized</td>
       <td>
-          <ul>
-              <li>Swift Language + SwiftUI</li>
-              <li>Feature - Bottom Navigation Bar</li>
-              <li>Feature - Horizontal scrollable cards filtered by category</li>
-              <li>Feature - User able to select favourite landmarks</li>
-              <li>Feature - Maps integration</li>            
-          </ul>
+        <ul>
+          <li>Swift Language + SwiftUI</li>
+          <li>Feature - Bottom Navigation Bar</li>
+          <li>Feature - Horizontal scrollable cards filtered by category</li>
+          <li>Feature - User able to select favourite landmarks</li>
+          <li>Feature - Maps integration</li>
+        </ul>
       </td>
     </tr>
-    
     <tr>
       <td>Project</td>
       <td>
@@ -120,15 +119,14 @@
     <tr>
       <td>Notable Technology Utilized</td>
       <td>
-          <ul>
-              <li>Swift Language + Storyboard</li>
-              <li>Utilizes 3rd party API for weather data</li>
-              <li>Feature - Weather information display</li>
-              <li>Feature - User able to select favourite locations</li>
-          </ul>
+        <ul>
+          <li>Swift Language + Storyboard</li>
+          <li>Utilizes 3rd party API for weather data</li>
+          <li>Feature - Weather information display</li>
+          <li>Feature - User able to select favourite locations</li>
+        </ul>
       </td>
     </tr>
-    
     <tr>
       <td>Project</td>
       <td>
@@ -142,17 +140,17 @@
     <tr>
       <td>Notable Technology Utilized</td>
       <td>
-          <ul>
-              <li>Swift Language + Storyboard</li>
-              <li>Google Firebase and front-end integration</li>
-              <li>Retrieve, sort and display cloud storage messages</li>
-              <li>TableViews and custom XIB cells</li>
-              <li>Animating the UI</li>
-              <li>Cocoapods package manager</li>
-              <li>Multiple screens</li>
-              <li>Feature - Registration, login authentication of users and log out</li>
-              <li>Feature - Instant chat messaging between users</li>
-          </ul>
+        <ul>
+          <li>Swift Language + Storyboard</li>
+          <li>Google Firebase and front-end integration</li>
+          <li>Retrieve, sort and display cloud storage messages</li>
+          <li>TableViews and custom XIB cells</li>
+          <li>Animating the UI</li>
+          <li>Cocoapods package manager</li>
+          <li>Multiple screens</li>
+          <li>Feature - Registration, login authentication of users and log out</li>
+          <li>Feature - Instant chat messaging between users</li>
+        </ul>
       </td>
     </tr>
   </tbody>
