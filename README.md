@@ -141,14 +141,9 @@
       <td>Mobile app where users can play the Xylophone</td>
     </tr>
     <tr>
-      <td>Notable Technology Utilized</td>
+      <td>Screenshots</td>
       <td>
-        <ul>
-          <li>Swift Language + Storyboard</li>
-          <li>Layout and constraint designing</li>
-          <li>AVFoundation package to play sounds</li>
-          <li>Error handling</li>
-        </ul>
+        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/xylophone.jpg" alt="react-app" height="400" />
       </td>
     </tr>
     <tr>
@@ -162,22 +157,9 @@
       </td>
     </tr>
     <tr>
-      <td>Summary</td>
-      <td>Mobile Body Mass Index calculator. Based on the user’s weight and height it will calculate their body mass and give a piece of health advice depending on whether if they have eaten too many pies or if they need to eat more pies</td>
-    </tr>
-    <tr>
-      <td>Notable Technology Utilized</td>
+      <td>Screenshots</td>
       <td>
-        <ul>
-          <li>Swift Language + Storyboard</li>
-          <li>Creating multi-screen and animated navigation</li>
-          <li>Slider widget</li>
-          <li>Optional binding, optional chaining and nil coalescing operator</li>
-          <li>Usage of classes and structs</li>
-          <li>Pass values and pass by reference</li>
-          <li>Formatting of strings</li>
-          <li>Color literals</li>
-        </ul>
+        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/home-1.jpg" alt="react-app" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/home-2.jpg" alt="react-app" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/home-3.jpg" alt="react-app" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/home-4.jpg" alt="react-app" height="400" />
       </td>
     </tr>
   </tbody>
