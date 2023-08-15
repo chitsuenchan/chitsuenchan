@@ -82,7 +82,7 @@
 
 <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/apple-logo.png" alt="python" width="20" height="20" /> iOS Mobile Applications 
 
-<table>
+<table class="table-equal-size">
   <tbody>
     <tr>
       <td>Project</td>
@@ -110,7 +110,7 @@
   </tbody>
 </table>
 
-<table>
+<table class="table-equal-size">
   <tbody>
     <tr>
       <td>Project</td>
@@ -138,7 +138,14 @@
   </tbody>
 </table>
 
-
+<style>
+    .table-equal-size {
+        width: 50%; /* Both tables take up 50% width of the container */
+        float: left; /* Make the tables float next to each other */
+        margin-right: 20px; /* Add some spacing between tables */
+        box-sizing: border-box; /* Ensure padding and border are included in the width */
+    }
+</style>
 
 
 
