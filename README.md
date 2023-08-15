@@ -18,14 +18,14 @@
 <h1 align="center">Projects</h1>
 <br>
 
-<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/react.png" alt="react" width="20" height="20" /> Front-end React Applications
+<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/react.png" alt="react" height="20" /> Front-end React Applications
 
 <table>
   <tbody>
     <tr>
       <td>Project</td>
       <td>
-        <a href="https://github.com/chitsuenchan/full-stack-fact-app">Fun Facts Forum (Link here)</a>
+        <a href="https://github.com/chitsuenchan/full-stack-fact-app">Fun Facts Forum (more info here)</a>
       </td>
     </tr>
     <tr>
@@ -33,23 +33,16 @@
       <td>A full stack react app where you can share facts across various categories and rank them.</td>
     </tr>
     <tr>
-      <td>Notable Technology Utilized</td>
+      <td>Screenshots</td>
       <td>
-          <ul>
-              <li>JavaScript, HTML and CSS Languages</li>
-              <li>React framework</li>
-              <li>Responsive web layout</li>
-              <li>POST API to share fact</li>
-              <li>GET API and SQL to retrieve forum facts</li>
-              <li>Layout desinging, use states and onclicklisteners</li>     
-          </ul>
+        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/example-form1.jpg" height="300" />
       </td>
     </tr>
   </tbody>
 </table>
 <br>
  
-<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/android.png" alt="python" width="20" height="20" /> Android Mobile Applications 
+<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/android.png" width="20" height="20" /> Android Mobile Applications 
 
 <table>
   <tbody>
@@ -64,23 +57,16 @@
       <td>Mobile app where you can record personal cycling and running records.</td>
     </tr>
     <tr>
-      <td>Notable Technology Utilized</td>
+      <td>Screenshots</td>
       <td>
-          <ul>
-              <li>Kotlin Language</li>
-              <li>Android Native Components</li>
-              <li>Material Design</li>
-              <li>Fragmented activity views</li>
-              <li>Scrollable list of records</li>
-              <li>Storing data on phone memory</li>            
-          </ul>
+        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/record_keeper_example_1.jpg" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/record_keeper_example_2.jpg" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/record_keeper_example_3.jpg" height="400" />
       </td>
     </tr>
   </tbody>
 </table>
 <br>
 
-<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/apple-logo.png" alt="python" width="20" height="20" /> iOS Mobile Applications 
+<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/apple-logo.png" width="20" height="20" /> iOS Mobile Applications 
 
 <table>
   <tbody>
@@ -95,20 +81,9 @@
       <td>Mobile full stack WhatsApp copy app where users can register, login and message each other in a chatroom. Messages are stored in Google Firebase</td>
     </tr>
     <tr>
-      <td>Notable Technology Utilized</td>
+      <td>Screenshots</td>
       <td>
-        <ul>
-          <li>Swift Language + Storyboard</li>
-          <li>Storing data in the cloud using Firebase Firestore</li>
-          <li>Querying and sorting Firebase database</li>
-          <li>Firebase for user authentication, registration and login</li>
-          <li>Using UITableViews and setting their data sources and delegates</li>
-          <li>Creating custom views using .xib files to modify native design components</li>
-          <li>Embedding View Controllers in a Navigation Controller and understanding navigation stack</li>
-          <li>Creating constants file and use static properties to store Strings and other constants</li>
-          <li>Create animations using loops</li>
-          <li>Using direct Segues for navigation</li>
-        </ul>
+        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/example-homeScreen.jpg" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/example-login.jpg" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/example-chatView.jpg" height="400" />
       </td>
     </tr>
     <tr>
@@ -126,15 +101,9 @@
       <td>Mobile app displaying landmarks with details and an interactive map. Users can favourite landmarks and filter them.</td>
     </tr>
     <tr>
-      <td>Notable Technology Utilized</td>
+      <td>Screenshots</td>
       <td>
-        <ul>
-          <li>Swift Language + SwiftUI</li>
-          <li>Feature - Bottom Navigation Bar</li>
-          <li>Feature - Horizontal scrollable cards filtered by category</li>
-          <li>Feature - User able to select favourite landmarks</li>
-          <li>Feature - Maps integration</li>
-        </ul>
+        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/example-detail.jpg" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/example-featured.jpg" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/example-list.jpg" height="400" />
       </td>
     </tr>
     <tr>
@@ -152,22 +121,25 @@
       <td>Mobile weather app that uses an external API to display weather information from around the world.</td>
     </tr>
     <tr>
-      <td>Notable Technology Utilized</td>
+      <td>Screenshots</td>
       <td>
-        <ul>
-          <li>Swift Language + Storyboard</li>
-          <li>Creating a dark-mode enabled app</li>
-          <li>Usage of vector images as image assets</li>
-          <li>UITextField for user input</li>
-          <li>Delegate pattern design</li>
-          <li>Swift protocols and extensions</li>
-          <li>Uses the URLSession to network and make HTTP requests</li>
-          <li>Parse JSON with native Encodable and Decodable protocols</li>
-          <li>Uses the Grand Central Dispatch to fetch the main thread</li>
-          <li>Retrieval of Core Location to get the current location from the phone GPS</li>
-          <li>Feature - Weather information display</li>
-          <li>Feature - User able to select favourite locations</li>
-        </ul>
+        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/hongKong.jpg" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/lightmode.jpg" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/darkmode.jpg" height="400" />
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Project</td>
+      <td>
+        <a href="https://github.com/chitsuenchan/BMI_Calculator">BMI Calculator app (Link here)</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Screenshots</td>
+      <td>
+        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/home-1.jpg" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/home-2.jpg" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/home-3.jpg" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/home-4.jpg" height="400" />
       </td>
     </tr>
     <tr>
@@ -185,50 +157,16 @@
       <td>Mobile app where users can play the Xylophone</td>
     </tr>
     <tr>
-      <td>Notable Technology Utilized</td>
+      <td>Screenshots</td>
       <td>
-        <ul>
-          <li>Swift Language + Storyboard</li>
-          <li>Layout and constraint designing</li>
-          <li>AVFoundation package to play sounds</li>
-          <li>Error handling</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Project</td>
-      <td>
-        <a href="https://github.com/chitsuenchan/BMI_Calculator">BMI Calculator app (Link here)</a>
-      </td>
-    </tr>
-    <tr>
-      <td>Summary</td>
-      <td>Mobile Body Mass Index calculator. Based on the user’s weight and height it will calculate their body mass and give a piece of health advice depending on whether if they have eaten too many pies or if they need to eat more pies</td>
-    </tr>
-    <tr>
-      <td>Notable Technology Utilized</td>
-      <td>
-        <ul>
-          <li>Swift Language + Storyboard</li>
-          <li>Creating multi-screen and animated navigation</li>
-          <li>Slider widget</li>
-          <li>Optional binding, optional chaining and nil coalescing operator</li>
-          <li>Usage of classes and structs</li>
-          <li>Pass values and pass by reference</li>
-          <li>Formatting of strings</li>
-          <li>Color literals</li>
-        </ul>
+        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/xylophone.jpg" height="400" />
       </td>
     </tr>
   </tbody>
 </table>
 <br>
 
-<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/machine-learning2.png" alt="machine-learning" width="20" height="20" /> Machine Learning 
+<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/machine-learning2.png" width="20" height="20" /> Machine Learning 
 
 <table>
   <tbody>
@@ -243,21 +181,13 @@
       <td>The aim of this project is to create a machine learning model which I can use to predict one's survivability on the titanic depending on certain inputs. The model will be trained on real passenger data from the 1912 titanic. The project will analyse the data, clean the data, create a logistical regression model, predict and evaluate.</td>
     </tr>
     <tr>
-      <td>Notable Technology Utilized</td>
+      <td>Screenshots</td>
       <td>
-          <ul>
-              <li>Python Language</li>
-              <li>Frameworks - pandas, numpy, seaborn, matplotlib, and sklearn</li>
-              <li>Jupyter notebook</li>
-              <li>Data statistical analysis and mathematical modelling</li> 
-          </ul>
+        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/titanic_image.jpg" alt="machine-learning" height="400" />
       </td>
     </tr>
   </tbody>
 </table>
-
-
-
 
 <h3 align="left">Languages and Tools Experience:</h3>
 <p align="left">
