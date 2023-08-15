@@ -181,14 +181,9 @@
       <td>The aim of this project is to create a machine learning model which I can use to predict one's survivability on the titanic depending on certain inputs. The model will be trained on real passenger data from the 1912 titanic. The project will analyse the data, clean the data, create a logistical regression model, predict and evaluate.</td>
     </tr>
     <tr>
-      <td>Notable Technology Utilized</td>
+      <td>Screenshots</td>
       <td>
-          <ul>
-              <li>Python Language</li>
-              <li>Frameworks - pandas, numpy, seaborn, matplotlib, and sklearn</li>
-              <li>Jupyter notebook</li>
-              <li>Data statistical analysis and mathematical modelling</li> 
-          </ul>
+        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/titanic_image.jpg" alt="react-app" height="400" />
       </td>
     </tr>
   </tbody>
