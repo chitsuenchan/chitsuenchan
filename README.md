@@ -21,7 +21,7 @@
   - [Machine Learning](https://github.com/chitsuenchan/machine-learning-titanic-survival)
 
 Android Mobile Applications 
-<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/android.png" alt="python" width="40" height="40" />
+<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/android.png" alt="python" width="20" height="20" />
 
 
 
