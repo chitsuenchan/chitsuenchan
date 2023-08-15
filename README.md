@@ -81,20 +81,9 @@
       <td>Mobile full stack WhatsApp copy app where users can register, login and message each other in a chatroom. Messages are stored in Google Firebase</td>
     </tr>
     <tr>
-      <td>Notable Technology Utilized</td>
+      <td>Screenshots</td>
       <td>
-        <ul>
-          <li>Swift Language + Storyboard</li>
-          <li>Storing data in the cloud using Firebase Firestore</li>
-          <li>Querying and sorting Firebase database</li>
-          <li>Firebase for user authentication, registration and login</li>
-          <li>Using UITableViews and setting their data sources and delegates</li>
-          <li>Creating custom views using .xib files to modify native design components</li>
-          <li>Embedding View Controllers in a Navigation Controller and understanding navigation stack</li>
-          <li>Creating constants file and use static properties to store Strings and other constants</li>
-          <li>Create animations using loops</li>
-          <li>Using direct Segues for navigation</li>
-        </ul>
+        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/example-homeScreen.jpg" alt="react-app" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/example-login.jpg" alt="react-app" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/example-chatView.jpg" alt="react-app" height="400" />
       </td>
     </tr>
     <tr>
@@ -112,15 +101,9 @@
       <td>Mobile app displaying landmarks with details and an interactive map. Users can favourite landmarks and filter them.</td>
     </tr>
     <tr>
-      <td>Notable Technology Utilized</td>
+      <td>Screenshots</td>
       <td>
-        <ul>
-          <li>Swift Language + SwiftUI</li>
-          <li>Feature - Bottom Navigation Bar</li>
-          <li>Feature - Horizontal scrollable cards filtered by category</li>
-          <li>Feature - User able to select favourite landmarks</li>
-          <li>Feature - Maps integration</li>
-        </ul>
+        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/example-detail.jpg" alt="react-app" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/example-featured.jpg" alt="react-app" height="400" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/example-list.jpg" alt="react-app" height="400" />
       </td>
     </tr>
     <tr>
