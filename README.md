@@ -87,7 +87,7 @@
     <tr>
       <td>Project</td>
       <td>
-        <a href="https://github.com/chitsuenchan/swiftUI-landmarks-project">Landmarks (Link here)</a>
+        <a href="https://github.com/chitsuenchan/swiftUI-landmarks-project">Landmarks App (Link here)</a>
       </td>
     </tr>
     <tr>
@@ -138,7 +138,7 @@
     <tr>
       <td>Project</td>
       <td>
-        <a href="https://github.com/chitsuenchan/swiftUI-landmarks-project">WhatsApp Copy (Link here)</a>
+        <a href="https://github.com/chitsuenchan/swiftUI-landmarks-project">WhatsApp Copy App (Link here)</a>
       </td>
     </tr>
     <tr>
