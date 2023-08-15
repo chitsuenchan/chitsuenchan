@@ -35,7 +35,7 @@
     <tr>
       <td>Screenshots</td>
       <td>
-        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/example-form1.png" alt="react-app" width="20" height="20" />
+        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/example-form1.jpg" alt="react-app" width="20" height="20" />
       </td>
     </tr>
   </tbody>
