@@ -78,6 +78,7 @@
     </tr>
   </tbody>
 </table>
+<br>
 
 <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/apple-logo.png" alt="python" width="20" height="20" /> iOS Mobile Applications 
 
