@@ -164,6 +164,34 @@
   </tbody>
 </table>
 
+<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/machine-learning.png" alt="machine-learning" width="20" height="20" /> Machine Learning 
+
+<table>
+  <tbody>
+    <tr>
+      <td>Project</td>
+      <td>
+        <a href="https://github.com/chitsuenchan/machine-learning-titanic-survival">Titanic Survivability Machine Learning (Link here)</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Summary</td>
+      <td>The aim of this project is to create a machine learning model which I can use to predict one's survivability on the titanic depending on certain inputs. The model will be trained on real passenger data from the 1912 titanic. The project will analyse the data, clean the data, create a logistical regression model, predict and evaluate.</td>
+    </tr>
+    <tr>
+      <td>Notable Technology Utilized</td>
+      <td>
+          <ul>
+              <li>Python Language</li>
+              <li>Frameworks - pandas, numpy, seaborn, matplotlib, and sklearn</li>
+              <li>Jupyter notebook</li>
+              <li>Data statiscal analysis and mathematical modelling</li> 
+          </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 
