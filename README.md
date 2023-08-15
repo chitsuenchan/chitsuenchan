@@ -164,7 +164,7 @@
   </tbody>
 </table>
 
-<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/machine-learning.png" alt="machine-learning" width="40" height="20" /> Machine Learning 
+<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/machine-learning.png" alt="machine-learning" width="35" height="20" /> Machine Learning 
 
 <table>
   <tbody>
