@@ -39,6 +39,7 @@ Android Mobile Applications
       <td>Technology utilized</td>
       <td>
           <ul>
+              <li>Kotlin Language</li>
               <li>Android Native Components</li>
               <li>Material Design</li>
               <li>Fragmented activity views</li>
