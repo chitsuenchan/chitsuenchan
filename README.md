@@ -20,8 +20,7 @@
   - [Mobile Testing](https://github.com/chitsuenchan/Mobile-and-API-QA)
   - [Machine Learning](https://github.com/chitsuenchan/machine-learning-titanic-survival)
 
-<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/android.png" alt="python" width="20" height="20" />
-Android Mobile Applications 
+<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/android.png" alt="python" width="20" height="20" /> Android Mobile Applications 
 
 <table>
   <tbody>
