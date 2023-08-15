@@ -82,7 +82,7 @@
 
 <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/apple-logo.png" alt="python" width="20" height="20" /> iOS Mobile Applications 
 
-<table class="table-equal-size">
+<table>
   <tbody>
     <tr>
       <td>Project</td>
@@ -107,11 +107,6 @@
           </ul>
       </td>
     </tr>
-  </tbody>
-</table>
-
-<table class="table-equal-size">
-  <tbody>
     <tr>
       <td>Project</td>
       <td>
@@ -138,14 +133,33 @@
   </tbody>
 </table>
 
-<style>
-    .table-equal-size {
-        width: 50%; /* Both tables take up 50% width of the container */
-        float: left; /* Make the tables float next to each other */
-        margin-right: 20px; /* Add some spacing between tables */
-        box-sizing: border-box; /* Ensure padding and border are included in the width */
-    }
-</style>
+<table>
+  <tbody>
+    <tr>
+      <td>Project</td>
+      <td>
+        <a href="https://github.com/chitsuenchan/swiftUI-landmarks-project">Weather App (Link here)</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Summary</td>
+      <td>Weather app that utilizes 3rd party API to display weather information from around the world</td>
+    </tr>
+    <tr>
+      <td>Notable Technology Utilized</td>
+      <td>
+          <ul>
+              <li>Swift Language</li>
+              <li>Storyboard</li>
+              <li>Utilizes 3rd party API for weather data</li>
+              <li>Feature - </li>
+              <li>Feature - User able to select favourite landmarks</li>
+              <li>Feature - Maps integration</li>            
+          </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 
