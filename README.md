@@ -23,6 +23,27 @@
 Android Mobile Applications 
 <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/android.png" alt="python" width="20" height="20" />
 
+<table>
+  <tbody>
+    <tr>
+      <td>Project</td>
+      <td>Sports Record Keeper App</td>
+    </tr>
+    <tr>
+      <td>Summary</td>
+      <td>Provides user the ability to save cycling and running records</td>
+    </tr>
+    <tr>
+      <td>Technology utilized</td>
+      <td>
+          <ul>
+              <li>Android Native Components</li>
+              <li>Material Design</li>
+          </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 
