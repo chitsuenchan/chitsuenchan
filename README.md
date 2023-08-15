@@ -51,7 +51,7 @@
     <tr>
       <td>Project</td>
       <td>
-        <a href="https://github.com/chitsuenchan/Android-Record-Keeper">Sports Record Keeper (Link here)</a>
+        <a href="https://github.com/chitsuenchan/Android-Record-Keeper">Sports Record Keeper (more info here)</a>
       </td>
     </tr>
     <tr>
@@ -77,7 +77,7 @@
     <tr>
       <td>Project</td>
       <td>
-        <a href="https://github.com/chitsuenchan/Flash-Chat-App">WhatsApp Copy App (Link here)</a>
+        <a href="https://github.com/chitsuenchan/Flash-Chat-App">WhatsApp Copy App (more info here)</a>
       </td>
     </tr>
     <tr>
@@ -97,7 +97,7 @@
     <tr>
       <td>Project</td>
       <td>
-        <a href="https://github.com/chitsuenchan/swiftUI-landmarks-project">Landmarks App (Link here)</a>
+        <a href="https://github.com/chitsuenchan/swiftUI-landmarks-project">Landmarks App (more info here)</a>
       </td>
     </tr>
     <tr>
@@ -117,7 +117,7 @@
     <tr>
       <td>Project</td>
       <td>
-        <a href="https://github.com/chitsuenchan/iOS_weather_app">Weather App (Link here)</a>
+        <a href="https://github.com/chitsuenchan/iOS_weather_app">Weather App (more info here)</a>
       </td>
     </tr>
     <tr>
@@ -137,7 +137,7 @@
     <tr>
       <td>Project</td>
       <td>
-        <a href="https://github.com/chitsuenchan/BMI_Calculator">BMI Calculator app (Link here)</a>
+        <a href="https://github.com/chitsuenchan/BMI_Calculator">BMI Calculator app (more info here)</a>
       </td>
     </tr>
     <tr>
@@ -153,7 +153,7 @@
     <tr>
       <td>Project</td>
       <td>
-        <a href="https://github.com/chitsuenchan/Xylophone-iOS13">Xylophone Music app (Link here)</a>
+        <a href="https://github.com/chitsuenchan/Xylophone-iOS13">Xylophone Music app (more info here)</a>
       </td>
     </tr>
     <tr>
@@ -179,7 +179,7 @@
     <tr>
       <td>Project</td>
       <td>
-        <a href="https://github.com/chitsuenchan/machine-learning-titanic-survival">Surviving on the Titanic (Link here)</a>
+        <a href="https://github.com/chitsuenchan/machine-learning-titanic-survival">Surviving on the Titanic (more info here)</a>
       </td>
     </tr>
     <tr>
