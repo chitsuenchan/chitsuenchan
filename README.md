@@ -185,7 +185,7 @@
               <li>Python Language</li>
               <li>Frameworks - pandas, numpy, seaborn, matplotlib, and sklearn</li>
               <li>Jupyter notebook</li>
-              <li>Data statiscal analysis and mathematical modelling</li> 
+              <li>Data statistical analysis and mathematical modelling</li> 
           </ul>
       </td>
     </tr>
