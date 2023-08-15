@@ -181,7 +181,7 @@
         <ul>
           <li>Swift Language + Storyboard</li>
           <li>Layout and constraint designing</li>
-          <li>Layout and constraint designing</li>
+          <li>AVFoundation package to play sounds</li>
         </ul>
       </td>
     </tr>
