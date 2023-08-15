@@ -40,6 +40,8 @@
     </tr>
   </tbody>
 </table>
+
+<br>
 <br>
  
 <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/android.png" width="20" height="20" /> Android Mobile Applications 
@@ -64,6 +66,8 @@
     </tr>
   </tbody>
 </table>
+
+<br>
 <br>
 
 <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/apple-logo.png" width="20" height="20" /> iOS Mobile Applications 
@@ -164,6 +168,8 @@
     </tr>
   </tbody>
 </table>
+
+<br>
 <br>
 
 <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/machine-learning2.png" width="20" height="20" /> Machine Learning 
