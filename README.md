@@ -41,6 +41,9 @@ Android Mobile Applications
           <ul>
               <li>Android Native Components</li>
               <li>Material Design</li>
+              <li>Fragmented activity views</li>
+              <li>Scrollable list of records</li>
+              <li>Storing data on phone memory</li>            
           </ul>
       </td>
     </tr>
