@@ -108,11 +108,6 @@
     </tr>
     
     <tr>
-      <td></td>
-      <td></td>
-    </tr>
-    
-    <tr>
       <td>Project</td>
       <td>
         <a href="https://github.com/chitsuenchan/swiftUI-landmarks-project">Weather App (Link here)</a>
@@ -128,16 +123,10 @@
           <ul>
               <li>Swift Language + Storyboard</li>
               <li>Utilizes 3rd party API for weather data</li>
-              <li>Feature - </li>
-              <li>Feature - User able to select favourite landmarks</li>
-              <li>Feature - Maps integration</li>            
+              <li>Feature - Weather information display</li>
+              <li>Feature - User able to select favourite locations</li>
           </ul>
       </td>
-    </tr>
-
-    <tr>
-      <td></td>
-      <td></td>
     </tr>
     
     <tr>
@@ -156,12 +145,12 @@
           <ul>
               <li>Swift Language + Storyboard</li>
               <li>Google Firebase and front-end integration</li>
-              <li>retrieve, sort and display cloud storage messages</li>
-              <li>tableViews and custom XIB cells</li>
+              <li>Retrieve, sort and display cloud storage messages</li>
+              <li>TableViews and custom XIB cells</li>
               <li>Animating the UI</li>
               <li>Cocoapods package manager</li>
               <li>Multiple screens</li>
-              <li>Feature - Registration, login authetication of users and log out</li>
+              <li>Feature - Registration, login authentication of users and log out</li>
               <li>Feature - Instant chat messaging between users</li>
           </ul>
       </td>
