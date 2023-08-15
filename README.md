@@ -171,7 +171,7 @@
     <tr>
       <td>Project</td>
       <td>
-        <a href="https://github.com/chitsuenchan/machine-learning-titanic-survival">Titanic Survivability Machine Learning (Link here)</a>
+        <a href="https://github.com/chitsuenchan/machine-learning-titanic-survival">Surviving on the Titanic (Link here)</a>
       </td>
     </tr>
     <tr>
