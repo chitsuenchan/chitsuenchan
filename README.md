@@ -13,9 +13,25 @@
 
 - ⚡ Fun fact **I'm an advanced scuba diver and explored sunken WWII battleships**
 
+- 👨‍💻 Here are the links to some of my projects:
+  - [REACT Website](https://github.com/chitsuenchan/full-stack-fact-app)
+  - [iOS Application](https://github.com/chitsuenchan/swiftUI-landmarks-project)
+  - [Android Application](https://github.com/chitsuenchan/Android-Record-Keeper)
+  - [Mobile Testing](https://github.com/chitsuenchan/Mobile-and-API-QA)
+  - [Machine Learning](https://github.com/chitsuenchan/machine-learning-titanic-survival)
+
+
+
+
+
+
+
+
+
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<blockquote>
   
   <a href="https://www.python.org" target="_blank">
     <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/python.png" alt="python" width="40" height="40" />
@@ -111,14 +127,6 @@
   <a href="https://react.dev/" target="_blank">
     <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/react.png" alt="react" width="40" height="40" />
   </a>
-</blockquote>
 </p>
-
-- 👨‍💻 Here are the links to some of my projects:
-  - [REACT Website](https://github.com/chitsuenchan/full-stack-fact-app)
-  - [iOS Application](https://github.com/chitsuenchan/swiftUI-landmarks-project)
-  - [Android Application](https://github.com/chitsuenchan/Android-Record-Keeper)
-  - [Mobile Testing](https://github.com/chitsuenchan/Mobile-and-API-QA)
-  - [Machine Learning](https://github.com/chitsuenchan/machine-learning-titanic-survival)
 
 
