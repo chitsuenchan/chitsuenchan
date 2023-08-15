@@ -25,7 +25,7 @@
     <tr>
       <td>Project</td>
       <td>
-        <a href="https://github.com/chitsuenchan/full-stack-fact-app">Fun Facts Forum (More info here)</a>
+        <a href="https://github.com/chitsuenchan/full-stack-fact-app">Fun Facts Forum (more info here)</a>
       </td>
     </tr>
     <tr>
@@ -57,16 +57,9 @@
       <td>Mobile app where you can record personal cycling and running records.</td>
     </tr>
     <tr>
-      <td>Notable Technology Utilized</td>
+      <td>Screenshots</td>
       <td>
-          <ul>
-              <li>Kotlin Language</li>
-              <li>Android Native Components</li>
-              <li>Material Design</li>
-              <li>Fragmented activity views</li>
-              <li>Scrollable list of records</li>
-              <li>Storing data on phone memory</li>            
-          </ul>
+        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/record_keeper_example_1.jpg" alt="react-app" height="200" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/record_keeper_example_2.jpg" alt="react-app" height="200" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/record_keeper_example_3.jpg" alt="react-app" height="200" />
       </td>
     </tr>
   </tbody>
