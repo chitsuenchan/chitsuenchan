@@ -87,7 +87,7 @@
     <tr>
       <td>Project</td>
       <td>
-        <a href="https://github.com/chitsuenchan/swiftUI-landmarks-project">WhatsApp Copy App (Link here)</a>
+        <a href="https://github.com/chitsuenchan/Flash-Chat-App">WhatsApp Copy App (Link here)</a>
       </td>
     </tr>
     <tr>
@@ -144,7 +144,7 @@
     <tr>
       <td>Project</td>
       <td>
-        <a href="https://github.com/chitsuenchan/swiftUI-landmarks-project">Weather App (Link here)</a>
+        <a href="https://github.com/chitsuenchan/iOS_weather_app">Weather App (Link here)</a>
       </td>
     </tr>
     <tr>
@@ -177,7 +177,7 @@
     <tr>
       <td>Project</td>
       <td>
-        <a href="https://github.com/chitsuenchan/swiftUI-landmarks-project">Xylophone Music app (Link here)</a>
+        <a href="https://github.com/chitsuenchan/Xylophone-iOS13">Xylophone Music app (Link here)</a>
       </td>
     </tr>
     <tr>
@@ -202,7 +202,7 @@
     <tr>
       <td>Project</td>
       <td>
-        <a href="https://github.com/chitsuenchan/swiftUI-landmarks-project">BMI Calculator app (Link here)</a>
+        <a href="https://github.com/chitsuenchan/BMI_Calculator">BMI Calculator app (Link here)</a>
       </td>
     </tr>
     <tr>
