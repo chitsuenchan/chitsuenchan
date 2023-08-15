@@ -107,6 +107,10 @@
       </td>
     </tr>
     <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Project</td>
       <td>
         <a href="https://github.com/chitsuenchan/swiftUI-landmarks-project">Weather App (Link here)</a>
