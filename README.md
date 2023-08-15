@@ -27,7 +27,7 @@ Android Mobile Applications
   <tbody>
     <tr>
       <td>Project</td>
-      <td>Sports Record Keeper App</td>
+      <td>[Android Application](https://github.com/chitsuenchan/Android-Record-Keeper)</td>
     </tr>
     <tr>
       <td>Summary</td>
