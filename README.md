@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I'm an advanced scuba diver and explored sunken WWII battleships**
 
-- 👨‍💻 See the list below for my list of projects.
+- 👨‍💻 See below for some of my projects
 
 <h1 align="center">Projects</h1>
 <br>
