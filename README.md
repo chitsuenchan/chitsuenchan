@@ -33,7 +33,7 @@ Android Mobile Applications
     </tr>
     <tr>
       <td>Summary</td>
-      <td>Provides user the ability to save cycling and running records</td>
+      <td>Provides user the ability to save cycling and running records.</td>
     </tr>
     <tr>
       <td>Notable Technology Utilized</td>
@@ -64,18 +64,18 @@ Front-end React Applications
     </tr>
     <tr>
       <td>Summary</td>
-      <td>A forum</td>
+      <td>A full stack application where you can share facts across various categories and rank them.</td>
     </tr>
     <tr>
       <td>Notable Technology Utilized</td>
       <td>
           <ul>
-              <li>Kotlin Language</li>
-              <li>Android Native Components</li>
-              <li>Material Design</li>
-              <li>Fragmented activity views</li>
-              <li>Scrollable list of records</li>
-              <li>Storing data on phone memory</li>            
+              <li>JavaScript, HTML and CSS Languages</li>
+              <li>React framework</li>
+              <li>Responsive web layout</li>
+              <li>POST API to share fact</li>
+              <li>GET API and SQL to retrieve forum facts</li>
+              <li>Layout desinging, use states and onclicklisteners</li>     
           </ul>
       </td>
     </tr>
