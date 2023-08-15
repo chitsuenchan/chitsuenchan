@@ -36,7 +36,7 @@ Android Mobile Applications
       <td>Provides user the ability to save cycling and running records</td>
     </tr>
     <tr>
-      <td>Technology utilized</td>
+      <td>Notable Technology Utilized</td>
       <td>
           <ul>
               <li>Kotlin Language</li>
