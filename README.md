@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Chi Tsuen</h1>
 <h3 align="center">I'm a Software Developer from the United Kingdom but now I live in Hong Kong and for the past 6 years I have been working in various tech projects in large financial institutions</h3>
 
-- 🔭 I’m aiming to **deploy my first android and iOS application**
+- 🔭 I’m aiming to **deploy my first android application**
 
-- 🌱 I’m currently learning **iOS, REACT and Swift**
+- 🌱 I’m currently learning **Kotlin, Swift and Marketing**
 
 - 💬 Ask me about **web and mobile development, Java object orientated programing, API testing, handling UAT, or business analysis**
 
