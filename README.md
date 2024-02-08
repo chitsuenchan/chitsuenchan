@@ -33,7 +33,7 @@
     </tr>
     <tr>
       <td>Summary</td>
-      <td>A LIVE website for my Taxi Translator app providing more information and download links. <a href="https://taxi-translator.com">Website link here</a></td>
+      <td>A LIVE website for my Taxi Translator app providing more information and download links. Available at: <a href="https://taxi-translator.com">taxi-translator.com</a></td>
     </tr>
     <tr>
       <td>Screenshots</td>
