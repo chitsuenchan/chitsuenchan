@@ -33,12 +33,12 @@
     </tr>
     <tr>
       <td>Summary</td>
-      <td>A full stack website for my Taxi Translator app providing more information and download links</td>
+      <td>A LIVE website for my Taxi Translator app providing more information and download links. Available at taxi-translator.com </td>
     </tr>
     <tr>
       <td>Screenshots</td>
       <td>
-        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/example-form1.jpg" height="300" />
+        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/taxi-translator-1.jpg" height="300" />
       </td>
     </tr>
     <tr>
