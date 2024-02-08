@@ -43,6 +43,32 @@
 
 <br>
 <br>
+
+<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/react.png" alt="react" height="20" /> Front-end React Applications
+
+<table>
+  <tbody>
+    <tr>
+      <td>Project</td>
+      <td>
+        <a href="https://github.com/chitsuenchan/full-stack-fact-app">Fun Facts Forum (more info here)</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Summary</td>
+      <td>A full stack react app where you can share facts across various categories and rank them.</td>
+    </tr>
+    <tr>
+      <td>Screenshots</td>
+      <td>
+        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/example-form1.jpg" height="300" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+<br>
  
 <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/android.png" width="20" height="20" /> Android Mobile Applications 
 
