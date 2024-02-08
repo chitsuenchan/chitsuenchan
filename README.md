@@ -15,6 +15,32 @@
 
 - 👨‍💻 See below for some of my projects
 
+<h1 align="center">LIVE Projects</h1>
+
+<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/react.png" alt="react" height="20" /> Front-end Applications
+
+<table>
+  <tbody>
+    <tr>
+      <td>Project</td>
+      <td>
+        <a href="https://github.com/chitsuenchan/full-stack-fact-app">Taxi Translator Website (more info here)</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Summary</td>
+      <td>A LIVE website for my Taxi Translator app providing more information and download links. <br> Available at: <a href="https://taxi-translator.com">taxi-translator.com</a></td>
+    </tr>
+    <tr>
+      <td>Screenshots</td>
+      <td>
+        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/taxi-translator-1.jpg" height="300" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 <h1 align="center">Projects</h1>
 <br>
 
