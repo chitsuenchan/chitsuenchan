@@ -41,7 +41,7 @@
 </table>
 
 
-<h1 align="center">Projects</h1>
+<h1 align="center">Learning Projects</h1>
 <br>
 
 <br>
