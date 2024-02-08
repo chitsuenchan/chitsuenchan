@@ -46,7 +46,7 @@
     </tr>
     <tr>
       <td>Android App Store</td>
-      <td>TBD</td>
+      <td> <a href="https://play.google.com/store/apps/details?id=com.chitsuenchan.taxitranslator">Link</a></td>
     </tr>
     <tr>
       <td>Screenshots</td>
