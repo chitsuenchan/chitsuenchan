@@ -63,9 +63,9 @@
   </tbody>
 </table>
 
-<h1 align="center">Learning Projects</h1>
 <br>
 
+<h1 align="center">Learning Projects</h1>
 <br>
 <br>
 
