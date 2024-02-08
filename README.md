@@ -21,7 +21,7 @@
 <br>
 <br>
 
-<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/react.png" alt="react" height="20" /> Front-end React Applications
+<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/react.png" alt="react" height="20" /> Front-end Applications
 
 <table>
   <tbody>
@@ -48,7 +48,7 @@
     <tr>
       <td>Project</td>
       <td>
-        <a href="https://github.com/chitsuenchan/full-stack-fact-app">Fun Facts Forum (more info here)</a>
+        <a href="https://github.com/chitsuenchan/full-stack-fact-app">REACT Facts Forum (more info here)</a>
       </td>
     </tr>
     <tr>
