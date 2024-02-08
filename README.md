@@ -28,12 +28,12 @@
     <tr>
       <td>Project</td>
       <td>
-        <a href="https://github.com/chitsuenchan/full-stack-fact-app">Fun Facts Forum (more info here)</a>
+        <a href="https://github.com/chitsuenchan/full-stack-fact-app">Taxi Translator Website (more info here)</a>
       </td>
     </tr>
     <tr>
       <td>Summary</td>
-      <td>A full stack react app where you can share facts across various categories and rank them.</td>
+      <td>A full stack website for my Taxi Translator app providing more information and download links</td>
     </tr>
     <tr>
       <td>Screenshots</td>
