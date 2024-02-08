@@ -30,7 +30,7 @@
     <tr>
       <td>Summary</td>
       <td>Users can search for real addresses in english and the app will show the translated version in big letters so they can show foreign taxi drivers who don't speak english. 
-        <br><br>I came up with this idea while travelling the world and found communicating with taxi drivers at times difficult. </td>
+        <br><br>I came up with this idea while travelling the world and found communicating with taxi drivers difficult at times. </td>
     </tr>
     <tr>
       <td>iOS Release Date</td>
