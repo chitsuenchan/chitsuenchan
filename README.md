@@ -18,7 +18,10 @@
 <h1 align="center">Projects</h1>
 <br>
 
-<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/html-css-js.png" alt="javascript" height="20" /> Front-end React Applications
+<br>
+<br>
+
+<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/react.png" alt="react" height="20" /> Front-end React Applications
 
 <table>
   <tbody>
@@ -38,16 +41,6 @@
         <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/example-form1.jpg" height="300" />
       </td>
     </tr>
-  </tbody>
-</table>
-
-<br>
-<br>
-
-<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/react.png" alt="react" height="20" /> Front-end React Applications
-
-<table>
-  <tbody>
     <tr>
       <td>Project</td>
       <td>
