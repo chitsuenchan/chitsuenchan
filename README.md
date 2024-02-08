@@ -18,7 +18,7 @@
 <h1 align="center">Projects</h1>
 <br>
 
-<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/react.png" alt="react" height="20" /> Front-end React Applications
+<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/html-css-js.png" alt="javascript" height="20" /> Front-end React Applications
 
 <table>
   <tbody>
