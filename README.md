@@ -42,6 +42,8 @@
       </td>
     </tr>
     <tr>
+    </tr>
+    <tr>
       <td>Project</td>
       <td>
         <a href="https://github.com/chitsuenchan/full-stack-fact-app">Fun Facts Forum (more info here)</a>
