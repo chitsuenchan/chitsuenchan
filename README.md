@@ -51,7 +51,8 @@
     <tr>
       <td>Screenshots</td>
       <td>
-        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/taxi-translator-1.jpg" height="300" />
+        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/apple_store.jpg" height="300" />
+        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/play_store.jpg" height="300" />
       </td>
     </tr>
   </tbody>
