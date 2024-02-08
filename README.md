@@ -37,12 +37,12 @@
       <td>20th of December 2023</td>
     </tr>
     <tr>
-      <td>iOS App Store</td>
-      <td> <a href="https://apps.apple.com/us/app/the-taxi-translator/id6472616267">Link</a></td>
-    </tr>
-    <tr>
       <td>Android Release Date</td>
       <td>TBD</td>
+    </tr>
+    <tr>
+      <td>iOS App Store</td>
+      <td> <a href="https://apps.apple.com/us/app/the-taxi-translator/id6472616267">Link</a></td>
     </tr>
     <tr>
       <td>Android App Store</td>
