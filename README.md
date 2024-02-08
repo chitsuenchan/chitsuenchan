@@ -29,7 +29,23 @@
     </tr>
     <tr>
       <td>Summary</td>
-      <td>A LIVE website for my Taxi Translator app providing more information and download links. <br> Available at: <a href="https://taxi-translator.com">taxi-translator.com</a></td>
+      <td>Users can search for addresses in english and it will show the translated version so they can then quickly show foreign taxi drivers. I came up with this idea while travelling the world and found communicating with taxi drivers at times difficult. </td>
+    </tr>
+    <tr>
+      <td>iOS Release Date</td>
+      <td>20th of December 2023</td>
+    </tr>
+    <tr>
+      <td>iOS App Store</td>
+      <td> <a href="https://apps.apple.com/us/app/the-taxi-translator/id6472616267">Link</a></td>
+    </tr>
+    <tr>
+      <td>Android Release Date</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>Android App Store</td>
+      <td>TBD</td>
     </tr>
     <tr>
       <td>Screenshots</td>
