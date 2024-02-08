@@ -24,7 +24,7 @@
     <tr>
       <td>Project</td>
       <td>
-        <a href="https://github.com/chitsuenchan/full-stack-fact-app">Taxi Translator Website (more info here)</a>
+        <a href="https://taxi-translator.com">Taxi Translator</a>
       </td>
     </tr>
     <tr>
