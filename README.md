@@ -1,4 +1,5 @@
 <h1 align="center">Hey 👋, I'm Chi Tsuen</h1>
+
 <h3 align="center">I'm a person who enjoys learning and applying tech to make lives better. I live in Hong Kong for the past 6 years I have been working in large IT projects</h3>
 
 - 🔭 I’m aiming to **get 10,000 users for Taxi Translator**
@@ -38,7 +39,7 @@ API Services
 <h1 align="center">Projects</h1>
 <br>
 
-<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/react.png" alt="react" height="20" /> Front-end React Applications
+<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/apple-logo.png" alt="apple_log" height="20" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/android.png" alt="android" height="20" /> Mobile App
 
 <table>
   <tbody>
@@ -61,6 +62,8 @@ API Services
     </tr>
   </tbody>
 </table>
+
+<br>
 <br>
  
 <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/android.png" width="20" height="20" /> Android Mobile Applications 
@@ -70,7 +73,7 @@ API Services
     <tr>
       <td>Project</td>
       <td>
-        <a href="https://github.com/chitsuenchan/Android-Record-Keeper">Sports Record Keeper (Link here)</a>
+        <a href="https://github.com/chitsuenchan/Android-Record-Keeper">Sports Record Keeper (more info here)</a>
       </td>
     </tr>
     <tr>
@@ -85,6 +88,8 @@ API Services
     </tr>
   </tbody>
 </table>
+
+<br>
 <br>
 
 <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/apple-logo.png" width="20" height="20" /> iOS Mobile Applications 
@@ -94,7 +99,7 @@ API Services
     <tr>
       <td>Project</td>
       <td>
-        <a href="https://github.com/chitsuenchan/Flash-Chat-App">WhatsApp Copy App (Link here)</a>
+        <a href="https://github.com/chitsuenchan/Flash-Chat-App">WhatsApp Copy App (more info here)</a>
       </td>
     </tr>
     <tr>
@@ -114,7 +119,7 @@ API Services
     <tr>
       <td>Project</td>
       <td>
-        <a href="https://github.com/chitsuenchan/swiftUI-landmarks-project">Landmarks App (Link here)</a>
+        <a href="https://github.com/chitsuenchan/swiftUI-landmarks-project">Landmarks App (more info here)</a>
       </td>
     </tr>
     <tr>
@@ -134,7 +139,7 @@ API Services
     <tr>
       <td>Project</td>
       <td>
-        <a href="https://github.com/chitsuenchan/iOS_weather_app">Weather App (Link here)</a>
+        <a href="https://github.com/chitsuenchan/iOS_weather_app">Weather App (more info here)</a>
       </td>
     </tr>
     <tr>
@@ -154,7 +159,7 @@ API Services
     <tr>
       <td>Project</td>
       <td>
-        <a href="https://github.com/chitsuenchan/BMI_Calculator">BMI Calculator app (Link here)</a>
+        <a href="https://github.com/chitsuenchan/BMI_Calculator">BMI Calculator app (more info here)</a>
       </td>
     </tr>
     <tr>
@@ -170,7 +175,7 @@ API Services
     <tr>
       <td>Project</td>
       <td>
-        <a href="https://github.com/chitsuenchan/Xylophone-iOS13">Xylophone Music app (Link here)</a>
+        <a href="https://github.com/chitsuenchan/Xylophone-iOS13">Xylophone Music app (more info here)</a>
       </td>
     </tr>
     <tr>
@@ -185,6 +190,8 @@ API Services
     </tr>
   </tbody>
 </table>
+
+<br>
 <br>
 
 <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/machine-learning2.png" width="20" height="20" /> Machine Learning 
@@ -194,7 +201,7 @@ API Services
     <tr>
       <td>Project</td>
       <td>
-        <a href="https://github.com/chitsuenchan/machine-learning-titanic-survival">Surviving on the Titanic (Link here)</a>
+        <a href="https://github.com/chitsuenchan/machine-learning-titanic-survival">Surviving on the Titanic (more info here)</a>
       </td>
     </tr>
     <tr>
@@ -204,7 +211,7 @@ API Services
     <tr>
       <td>Screenshots</td>
       <td>
-        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/titanic_image.jpg" alt="machine-learning" height="200" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/titanic_1.jpg" height="200" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/titatnic_2.jpg" height="200" />
+        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/titanic_image.jpg" alt="machine-learning" height="150" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/titanic_1.jpg" height="150" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/titatnic_2.jpg" height="150" />
       </td>
     </tr>
   </tbody>
