@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Chi Tsuen</h1>
 
-<h3 align="center">I'm a person who enjoys continuous learning and how to improve lives. I live in Hong Kong for the past 6 years I have been working in large IT projects</h3>
+<h3 align="center">I'm a person who enjoys continuous learning and using technology to enhance our lives. I live in Hong Kong for the past 6 years I have been working in large IT projects</h3>
 
 - 🔭 I’m aiming to get 10,000 users for my deployed app named **Taxi Translator**
 
