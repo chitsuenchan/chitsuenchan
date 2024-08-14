@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm a person who enjoys learning and applying tech to make lives better. I live in Hong Kong for the past 6 years I have been working in large IT projects</h3>
 
-- 🔭 I’m aiming to **get 10,000 users for Taxi Translator**
+- 🔭 I’m aiming to get 10,000 users for my deployed app named **Taxi Translator**
 
 - 🌱 I’m currently learning **AI and Machine Learning**
 
@@ -17,29 +17,142 @@
 - 👨‍💻 See below for some of my projects
 
 AI and Machine Learning
-- [Simple WebUI integrated with OpenAI Chatbot](#predictivemodels)
-- [Predictive model for Bitcoin](#predictivemodels)
-- [Predictive model for titanic survivability](#predictivemodels)
+- [Simple WebUI integrated with OpenAI Chatbot](#anchoropenai)
+- [Predictive model for Bitcoin](#anchorbitcoin)
+- [Predictive model for titanic survivability](#achortitanic)
 
 Mobile Applications
-- [Fitness Tracker](#predictivemodels)
-- [Whatsapp Clone](#predictivemodels)
-- [Landmarks](#predictivemodels)
-- [Weather App](#predictivemodels)
-- [BMI Calculator](#predictivemodels)
-- [Xylophone](#predictivemodels)
+- [Taxi Translator (Live)](#anchortaxitranslator)
+- [Fitness Tracker](#anchorsportsrecordkeeper)
+- [Whatsapp Clone](#anchorwhatsappclone)
+- [Landmarks](#anchorlandmarks)
+- [Weather App](#anchorweather)
+- [BMI Calculator](#anchorbmi)
+- [Xylophone](#anchorxylophone)
 
 Front-end Applications
 - [Fun Facts Forum (React)](#anchorfunfacts)
 
 API Services
 
-
-
-<h1 align="center">Projects</h1>
-<br>
+<h1 align="center">LIVE Projects</h1>
 
 <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/apple-logo.png" alt="apple_log" height="20" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/android.png" alt="android" height="20" /> Mobile App
+
+<table>
+  <tbody>
+    <tr>
+      <td>Project</td>
+      <td>
+        <a name="anchortaxitranslator"></a>
+        <a href="https://taxi-translator.com">Taxi Translator</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Summary</td>
+      <td>Users can search in English for real addresses, the app will show the translated address in big letters so they can show foreign taxi drivers who don't speak english where to go. 
+        <br><br>I came up with this idea while travelling the world and found communicating with taxi drivers difficult at times.</td>
+    </tr>
+    <tr>
+      <td>iOS Release</td>
+      <td>Live</td>
+    </tr>
+    <tr>
+      <td>Android Release</td>
+      <td>Live</td>
+    </tr>
+    <tr>
+      <td>iOS App Store</td>
+      <td> <a href="https://apps.apple.com/us/app/the-taxi-translator/id6472616267">Link</a></td>
+    </tr>
+    <tr>
+      <td>Android App Store</td>
+      <td> <a href="https://play.google.com/store/apps/details?id=com.chitsuenchan.taxitranslator">Link</a></td>
+    </tr>
+    <tr>
+      <td>Screenshots</td>
+      <td>
+        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/apple_store.jpeg" height="300" />
+        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/play_store.jpg" height="300" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 align="center">Other Projects</h1>
+<br>
+
+<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/machine-learning2.png" width="20" height="20" /> Machine Learning 
+
+<table>
+  <tbody>
+    <tr>
+      <td>Project</td>
+      <td>
+        <a name="anchoropenai"></a>
+        <a href="https://github.com/chitsuenchan/ai-chatbot">OpenAI ChatBot with WebUI (more info here)</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Summary</td>
+      <td>A web app that integrates OpenAI's gpt-4o-mini large language model.
+</td>
+    </tr>
+    <tr>
+      <td>Screenshots</td>
+      <td>
+        <img src="ExampleScreenshots/robot1.jpg" alt="machine-learning" height="150"/>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Project</td>
+      <td>
+        <a name="anchorbitcoin"></a>
+        <a href="https://github.com/chitsuenchan/Bitcoin-Multiple-Linear-Regression">Predictive Model for Bitcoin (more info here)</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Summary</td>
+      <td>Supervised machine learning to create a Multiple Linear Regression model that predicts the Bitcoin price.</td>
+    </tr>
+    <tr>
+      <td>Screenshots</td>
+      <td>
+        <img src="ExampleScreenshots/bitcoin6.jpg" height="200" />
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Project</td>
+      <td>
+        <a name="anchortitanic"></a>
+        <a href="https://github.com/chitsuenchan/machine-learning-titanic-survival">Surviving on the Titanic (more info here)</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Summary</td>
+      <td>Supervised machine learning to create a Logistic Regression mode to predict survivability on the titanic using existing passenger data</td>
+    </tr>
+    <tr>
+      <td>Screenshots</td>
+      <td>
+        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/titanic_image.jpg" alt="machine-learning" height="150" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/titanic_1.jpg" height="150" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/titatnic_2.jpg" height="150" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+<br>
+
+<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/react.png" alt="react" height="20" /> Front-end Applications
 
 <table>
   <tbody>
@@ -73,6 +186,7 @@ API Services
     <tr>
       <td>Project</td>
       <td>
+        <a name="anchorsportsrecordkeeper"></a>
         <a href="https://github.com/chitsuenchan/Android-Record-Keeper">Sports Record Keeper (more info here)</a>
       </td>
     </tr>
@@ -99,6 +213,7 @@ API Services
     <tr>
       <td>Project</td>
       <td>
+        <a name="anchorwhatsappclone"></a>
         <a href="https://github.com/chitsuenchan/Flash-Chat-App">WhatsApp Copy App (more info here)</a>
       </td>
     </tr>
@@ -119,6 +234,7 @@ API Services
     <tr>
       <td>Project</td>
       <td>
+        <a name="anchorlandmarks"></a>
         <a href="https://github.com/chitsuenchan/swiftUI-landmarks-project">Landmarks App (more info here)</a>
       </td>
     </tr>
@@ -139,6 +255,7 @@ API Services
     <tr>
       <td>Project</td>
       <td>
+        <a name="anchorweather"></a>
         <a href="https://github.com/chitsuenchan/iOS_weather_app">Weather App (more info here)</a>
       </td>
     </tr>
@@ -159,6 +276,7 @@ API Services
     <tr>
       <td>Project</td>
       <td>
+        <a name="anchorbmi"></a>
         <a href="https://github.com/chitsuenchan/BMI_Calculator">BMI Calculator app (more info here)</a>
       </td>
     </tr>
@@ -175,6 +293,7 @@ API Services
     <tr>
       <td>Project</td>
       <td>
+        <a name="anchorxylophone"></a>
         <a href="https://github.com/chitsuenchan/Xylophone-iOS13">Xylophone Music app (more info here)</a>
       </td>
     </tr>
@@ -192,30 +311,7 @@ API Services
 </table>
 
 <br>
-<br>
 
-<img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/Icons/machine-learning2.png" width="20" height="20" /> Machine Learning 
-
-<table>
-  <tbody>
-    <tr>
-      <td>Project</td>
-      <td>
-        <a href="https://github.com/chitsuenchan/machine-learning-titanic-survival">Surviving on the Titanic (more info here)</a>
-      </td>
-    </tr>
-    <tr>
-      <td>Summary</td>
-      <td>The aim of this project is to create a machine learning model which I can use to predict one's survivability on the titanic depending on certain inputs. The model will be trained on real passenger data from the 1912 titanic. The project will analyse the data, clean the data, create a logistical regression model, predict and evaluate.</td>
-    </tr>
-    <tr>
-      <td>Screenshots</td>
-      <td>
-        <img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/titanic_image.jpg" alt="machine-learning" height="150" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/titanic_1.jpg" height="150" /><img src="https://github.com/chitsuenchan/chitsuenchan/blob/main/ExampleScreenshots/titatnic_2.jpg" height="150" />
-      </td>
-    </tr>
-  </tbody>
-</table>
 
 <h3 align="left">Languages and Tools Experience:</h3>
 <p align="left">
