@@ -1,12 +1,12 @@
 <h1 align="center">Hey 👋, I'm Chi Tsuen</h1>
 
-<h3 align="center">I'm a person who enjoys learning and applying tech to make lives better. I live in Hong Kong for the past 6 years I have been working in large IT projects</h3>
+<h3 align="center">I'm a person who enjoys continuous learning and how to improve lives. I live in Hong Kong for the past 6 years I have been working in large IT projects</h3>
 
 - 🔭 I’m aiming to get 10,000 users for my deployed app named **Taxi Translator**
 
 - 🌱 I’m currently learning **AI and Machine Learning**
 
-- 💬 Ask me about **BI reporting, web and mobile development, process automation, API testing, or business analysis**
+- 💬 Ask me about **BI reporting, web and mobile development, process automation, APIs, or business analysis**
 
 - 📫 How to reach me **chitsuenchan@gmail.com**
 
@@ -14,26 +14,33 @@
 
 - ⚡ Fun fact **I'm an advanced scuba diver and explored sunken WWII battleships**
 
-- 👨‍💻 See below for some of my projects
+- 👨‍💻 Projects
 
-AI and Machine Learning
-- [Simple WebUI integrated with OpenAI Chatbot](#anchoropenai)
-- [Predictive model for Bitcoin](#anchorbitcoin)
-- [Predictive model for titanic survivability](#achortitanic)
+  - API and Machine Learning
 
-Mobile Applications
-- [Taxi Translator (Live)](#anchortaxitranslator)
-- [Fitness Tracker](#anchorsportsrecordkeeper)
-- [Whatsapp Clone](#anchorwhatsappclone)
-- [Landmarks](#anchorlandmarks)
-- [Weather App](#anchorweather)
-- [BMI Calculator](#anchorbmi)
-- [Xylophone](#anchorxylophone)
+    - [OpenAI Chatbot](#anchoropenai)
+    - [Predictive model for Bitcoin](#anchorbitcoin)
+    - [Predictive model for titanic survivability](#achortitanic)
 
-Front-end Applications
-- [Fun Facts Forum (React)](#anchorfunfacts)
+  - Mobile Applications
+    - [Taxi Translator (Live)](#anchortaxitranslator)
+    - [Fitness Tracker](#anchorsportsrecordkeeper)
+    - [Whatsapp Clone](#anchorwhatsappclone)
+    - [Landmarks](#anchorlandmarks)
+    - [Weather App](#anchorweather)
+    - [BMI Calculator](#anchorbmi)
+    - [Xylophone](#anchorxylophone)
 
-API Services
+  - Front-end Applications
+    - [Fun Facts Forum (React)](#anchorfunfacts)
+
+  - API Services
+    - <a href="https://github.com/chitsuenchan/Flask-API">Flask API with CRUD</a>
+    - <a href="https://github.com/chitsuenchan/Spring-API">Spring Boot APIs with connection to PostgreSQL</a>
+
+
+<br>
+<br>
 
 <h1 align="center">LIVE Projects</h1>
 
@@ -78,6 +85,9 @@ API Services
     </tr>
   </tbody>
 </table>
+
+<br>
+<br>
 
 <h1 align="center">Other Projects</h1>
 <br>
