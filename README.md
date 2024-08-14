@@ -1,11 +1,11 @@
 <h1 align="center">Hey 👋, I'm Chi Tsuen</h1>
-<h3 align="center">I'm a Software Developer from the United Kingdom but now I live in Hong Kong and for the past 6 years I have been working in various tech projects in large financial institutions</h3>
+<h3 align="center">I'm a person who enjoys learning and applying tech to make lives better. I live in Hong Kong for the past 6 years I have been working in large IT projects</h3>
 
-- 🔭 I’m aiming to **deploy my first android and iOS application**
+- 🔭 I’m aiming to **get 10,000 users for Taxi Translator**
 
-- 🌱 I’m currently learning **iOS, REACT and Swift**
+- 🌱 I’m currently learning **AI and Machine Learning**
 
-- 💬 Ask me about **web and mobile development, Java object orientated programing, API testing, handling UAT, or business analysis**
+- 💬 Ask me about **BI reporting, web and mobile development, process automation, API testing, or business analysis**
 
 - 📫 How to reach me **chitsuenchan@gmail.com**
 
@@ -14,6 +14,26 @@
 - ⚡ Fun fact **I'm an advanced scuba diver and explored sunken WWII battleships**
 
 - 👨‍💻 See below for some of my projects
+
+AI and Machine Learning
+- [Simple WebUI integrated with OpenAI Chatbot](#predictivemodels)
+- [Predictive model for Bitcoin](#predictivemodels)
+- [Predictive model for titanic survivability](#predictivemodels)
+
+Mobile Applications
+- [Fitness Tracker](#predictivemodels)
+- [Whatsapp Clone](#predictivemodels)
+- [Landmarks](#predictivemodels)
+- [Weather App](#predictivemodels)
+- [BMI Calculator](#predictivemodels)
+- [Xylophone](#predictivemodels)
+
+Front-end Applications
+- [Fun Facts Forum (React)](#anchorfunfacts)
+
+API Services
+
+
 
 <h1 align="center">Projects</h1>
 <br>
@@ -25,6 +45,7 @@
     <tr>
       <td>Project</td>
       <td>
+        <a name="anchorfunfacts"></a>
         <a href="https://github.com/chitsuenchan/full-stack-fact-app">Fun Facts Forum (more info here)</a>
       </td>
     </tr>
