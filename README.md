@@ -16,7 +16,7 @@
 
 - 👨‍💻 Projects
 
-  - API and Machine Learning
+  - AI and Machine Learning
 
     - [OpenAI Chatbot](#anchoropenai)
     - [Predictive model for Bitcoin](#anchorbitcoin)
